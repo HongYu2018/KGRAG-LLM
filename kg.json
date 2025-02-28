@@ -1,0 +1,205 @@
+{
+    "nodes": [
+        {
+            "id": "Acne",
+            "label": "Acne",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Spots",
+            "label": "Spots",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Oily Skin",
+            "label": "Oily Skin",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Hair Follicles",
+            "label": "Hair Follicles",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Benzoyl Peroxide",
+            "label": "Benzoyl Peroxide",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Papules",
+            "label": "Papules",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Pustules",
+            "label": "Pustules",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Nodules",
+            "label": "Nodules",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Cysts",
+            "label": "Cysts",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Blackheads",
+            "label": "Blackheads",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Whiteheads",
+            "label": "Whiteheads",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Sebum",
+            "label": "Sebum",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Pharmacist",
+            "label": "Pharmacist",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "GP",
+            "label": "GP",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Diagnosis",
+            "label": "Diagnosis",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Mild Acne",
+            "label": "Mild Acne",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Moderate Acne",
+            "label": "Moderate Acne",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Severe Acne",
+            "label": "Severe Acne",
+            "size": 25,
+            "shape": "circularImage"
+        },
+        {
+            "id": "Scarring",
+            "label": "Scarring",
+            "size": 25,
+            "shape": "circularImage"
+        }
+    ],
+    "edges": [
+        {
+            "source": "Acne",
+            "label": "causes",
+            "target": "Spots"
+        },
+        {
+            "source": "Acne",
+            "label": "causes",
+            "target": "Oily Skin"
+        },
+        {
+            "source": "Acne",
+            "label": "diagnosed by",
+            "target": "GP"
+        },
+        {
+            "source": "Acne",
+            "label": "treatment",
+            "target": "Benzoyl Peroxide"
+        },
+        {
+            "source": "Acne",
+            "label": "caused by",
+            "target": "Hair Follicles"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Papules"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Pustules"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Nodules"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Cysts"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Blackheads"
+        },
+        {
+            "source": "Acne",
+            "label": "contains",
+            "target": "Whiteheads"
+        },
+        {
+            "source": "Sebum",
+            "label": "produced by",
+            "target": "Sebaceous Glands"
+        },
+        {
+            "source": "Mild Acne",
+            "label": "consult",
+            "target": "Pharmacist"
+        },
+        {
+            "source": "Moderate Acne",
+            "label": "consult",
+            "target": "GP"
+        },
+        {
+            "source": "Severe Acne",
+            "label": "consult",
+            "target": "GP"
+        },
+        {
+            "source": "Severe Acne",
+            "label": "might cause",
+            "target": "Scarring"
+        },
+        {
+            "source": "Diagnosis",
+            "label": "involves",
+            "target": "GP"
+        }
+    ]
+}

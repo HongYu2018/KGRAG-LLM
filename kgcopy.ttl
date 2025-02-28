@@ -1,0 +1,631 @@
+@prefix ns1: <http://diseaseknowledge.org/> .
+@prefix ns2: <http://www.w3.org/TR/rdf11-schema/> .
+
+ns1:Asthma ns1:cause ns1:Environmental_Factors,
+        ns1:Genetic_Factors,
+        ns1:Lifestyle_Factors,
+        ns1:Occupational_Sensitizers,
+        ns1:Respiratory_Infections ;
+    ns1:diagnosing ns1:Diagnosis ;
+    ns1:has_risk_group ns1:Who_at_Risk_Asthma ;
+    ns1:has_treatment ns1:Allergy_Treatments,
+        ns1:Emergency_Treatment,
+        ns1:Lifestyle_Changes,
+        ns1:Medication ;
+    ns1:label <https://en.wikipedia.org/wiki/Asthma> ;
+    ns1:onset ns1:Adult_Onset,
+        ns1:Childhood_Onset ;
+    ns1:related_to ns1:Asthma_Attack,
+        ns1:Breathlessness,
+        ns1:Coughing,
+        ns1:Tight_Chest,
+        ns1:Wheezing ;
+    ns1:risk ns1:People_of_All_Ages ;
+    ns1:symptom ns1:Breathlessness,
+        ns1:Coughing,
+        ns1:Tight_Chest,
+        ns1:Wheezing ;
+    ns1:treatment ns1:Allergy_Treatments,
+        ns1:Emergency_Treatment,
+        ns1:Lifestyle_Changes,
+        ns1:Medication ;
+    ns1:trigger ns1:Triggers .
+
+ns1:Causes_Flu ns1:include ns1:Flu ;
+    ns2:type <https://en.wikipedia.org/wiki/Causes_of_Flu> .
+
+ns1:Causes_Pneumonia ns1:include ns1:Pneumonia ;
+    ns2:type <https://en.wikipedia.org/wiki/Causes_of_Pneumonia> .
+
+ns1:Chest_Infection ns1:example ns1:Pneumonia ;
+    ns1:label <https://en.wikipedia.org/wiki/Chest_Infection> .
+
+ns1:Chronic_kidney_disease ns1:caused_by ns1:Autosomal_dominant_polycystic_kidney_disease,
+        ns1:Diabetes,
+        ns1:Enlarged_prostate,
+        ns1:Glomerulonephritis,
+        ns1:High_blood_pressure,
+        ns1:High_cholesterol,
+        ns1:Kidney_infections,
+        ns1:Kidney_stones ;
+    ns1:diagnosed_by ns1:Blood_tests,
+        ns1:Urine_tests ;
+    ns1:more_common_in ns1:Black_South_Asian,
+        ns1:Older_age ;
+    ns1:risk_for ns1:Cardiovascular_disease ;
+    ns1:symptom ns1:Blood_in_urine,
+        ns1:Feeling_sick,
+        ns1:Shortness_of_breath,
+        ns1:Swollen_ankles,
+        ns1:Tiredness ;
+    ns1:treated_with ns1:Dialysis,
+        ns1:Kidney_transplant,
+        ns1:Lifestyle_changes,
+        ns1:Medicine ;
+    ns2:type <https://en.wikipedia.org/wiki/Chronic_Kidney_Disease> .
+
+ns1:CoronaryHeartDisease ns1:risk ns1:HeartAttack ;
+    ns2:type <https://en.wikipedia.org/wiki/Coronary_Heart_Disease> .
+
+ns1:FamilyHistory ns1:risk ns1:HeartProblems ;
+    ns2:type <https://en.wikipedia.org/wiki/Family_History> .
+
+ns1:Family_History ns1:label <https://en.wikipedia.org/wiki/Family_History> .
+
+ns1:Heart_Failure ns1:associated_with ns1:Coronary_Heart_Disease,
+        ns1:Diabetes,
+        ns1:High_Blood_Pressure,
+        ns1:High_Cholesterol,
+        ns1:Obesity ;
+    ns1:label <https://en.wikipedia.org/wiki/Heart_Failure> .
+
+ns1:HighBloodPressure ns1:risk ns1:HeartProblems ;
+    ns2:type <https://en.wikipedia.org/wiki/High_Blood_Pressure> .
+
+ns1:HighCholesterol ns1:risk ns1:HeartProblems ;
+    ns2:type <https://en.wikipedia.org/wiki/High_Cholesterol> .
+
+ns1:Infections ns1:label <https://en.wikipedia.org/wiki/Infections> .
+
+ns1:LungCancer ns1:cause ns1:Smoking ;
+    ns1:diagnosing ns1:CancerSymptomCheck ;
+    ns1:preventing ns1:HealthyLifestyle ;
+    ns1:risk ns1:NonSmokers,
+        ns1:OlderPeople ;
+    ns1:symptom ns1:CoughingBlood,
+        ns1:PainBreathing,
+        ns1:PersistentBreathlessness,
+        ns1:PersistentCough,
+        ns1:UnexplainedTiredness,
+        ns1:WeightLoss ;
+    ns1:treatment ns1:Chemotherapy,
+        ns1:Radiotherapy,
+        ns1:Surgery,
+        ns1:TargetedTherapies ;
+    ns1:type ns1:NonSmallCellLCancer,
+        ns1:SmallCellLCancer ;
+    ns2:type <https://en.wikipedia.org/wiki/Lung_Cancer> .
+
+ns1:OlderAge ns1:risk ns1:HeartProblems,
+        ns1:Pneumonia ;
+    ns2:type <https://en.wikipedia.org/wiki/Older_Age> .
+
+ns1:Preventer_Inhalers ns1:label <https://en.wikipedia.org/wiki/Preventer_Inhalers> .
+
+ns1:Prevention ns1:label <https://en.wikipedia.org/wiki/Prevention> .
+
+ns1:Reliever_Inhalers ns1:label <https://en.wikipedia.org/wiki/Reliever_Inhalers> .
+
+ns1:Symptoms ns1:label <https://en.wikipedia.org/wiki/Symptoms> .
+
+ns1:Treatment ns1:label <https://en.wikipedia.org/wiki/Treatment> .
+
+<http://diseaseknowledge.org/Who's_at_risk> ns1:label <https://en.wikipedia.org/wiki/Who's_at_risk> .
+
+ns1:AchingBody ns2:type <https://en.wikipedia.org/wiki/Aching_Body> .
+
+ns1:Aching_body ns1:label <https://en.wikipedia.org/wiki/Aching_body> .
+
+ns1:Adult_Onset ns1:label <https://en.wikipedia.org/wiki/Adult_Onset> .
+
+ns1:Alcohol ns1:label <https://en.wikipedia.org/wiki/Alcohol> .
+
+ns1:Angina ns1:causes ns1:ChestPain ;
+    ns1:label <https://en.wikipedia.org/wiki/Angina> .
+
+ns1:Angiogram ns1:label <https://en.wikipedia.org/wiki/Angiogram> .
+
+ns1:Aspiration_pneumonia ns1:label <https://en.wikipedia.org/wiki/Aspiration_pneumonia> .
+
+ns1:Asthma_Attack ns1:label <https://en.wikipedia.org/wiki/Asthma_Attack> .
+
+ns1:Atherosclerosis ns1:caused_by ns1:Alcohol,
+        ns1:Smoking ;
+    ns1:label <https://en.wikipedia.org/wiki/Atherosclerosis> .
+
+ns1:Autosomal_dominant_polycystic_kidney_disease ns2:type <https://en.wikipedia.org/wiki/Autosomal_Dominant_Polycystic_Kidney_Disease> .
+
+ns1:Black_South_Asian ns2:type <https://en.wikipedia.org/wiki/Black_or_South_Asian_Origin> .
+
+ns1:Blood_Test ns1:label <https://en.wikipedia.org/wiki/Blood_Test> .
+
+ns1:Blood_Tests ns1:label <https://en.wikipedia.org/wiki/Blood_Tests> .
+
+ns1:Blood_in_urine ns2:type <https://en.wikipedia.org/wiki/Blood_in_Urine> .
+
+ns1:Bronchodilators ns1:label <https://en.wikipedia.org/wiki/Bronchodilators> .
+
+ns1:COVID-19 ns1:label <https://en.wikipedia.org/wiki/COVID-19> .
+
+ns1:COVID-19_vaccine ns1:label <https://en.wikipedia.org/wiki/COVID-19_vaccine> .
+
+ns1:COVID_19 ns1:may_cause ns1:Pneumonia ;
+    ns2:type <https://en.wikipedia.org/wiki/COVID-19> .
+
+ns1:COVID_19_vaccine ns2:type <https://en.wikipedia.org/wiki/COVID-19_vaccine> .
+
+ns1:CancerSymptomCheck ns2:type <https://en.wikipedia.org/wiki/Cancer_Symptom_Check> .
+
+ns1:Cardiovascular_Disease ns1:label <https://en.wikipedia.org/wiki/Cardiovascular_Disease> .
+
+ns1:Cardiovascular_disease ns1:includes ns1:Heart_attack,
+        ns1:Stroke ;
+    ns2:type <https://en.wikipedia.org/wiki/Cardiovascular_Disease> .
+
+ns1:Chemotherapy ns1:label <https://en.wikipedia.org/wiki/Chemotherapy> .
+
+ns1:Chest_pain ns1:label <https://en.wikipedia.org/wiki/Chest_pain> .
+
+ns1:Childhood_Onset ns1:label <https://en.wikipedia.org/wiki/Childhood_Onset> .
+
+ns1:Coronary_Heart_Disease ns1:caused_by ns1:Atherosclerosis ;
+    ns1:diagnosed_with ns1:Angiogram,
+        ns1:Blood_Test,
+        ns1:ECG ;
+    ns1:label <https://en.wikipedia.org/wiki/Coronary_Heart_Disease> ;
+    ns1:symptom ns1:Chest_Pain,
+        ns1:Shortness_of_Breath ;
+    ns1:treated_by ns1:Lifestyle_Changes,
+        ns1:Medication,
+        ns1:Surgery .
+
+ns1:CoughingBlood ns2:type <https://en.wikipedia.org/wiki/Coughing_Blood> .
+
+ns1:Diagnosis ns1:label <https://en.wikipedia.org/wiki/Diagnosis> .
+
+ns1:DiagnosisBloodTest ns2:type <https://en.wikipedia.org/wiki/Diagnosis_Blood_Test> .
+
+ns1:DiagnosisPulseOximetry ns2:type <https://en.wikipedia.org/wiki/Diagnosis_Pulse_Oximetry> .
+
+ns1:DiagnosisXRay ns2:type <https://en.wikipedia.org/wiki/Diagnosis_X-Ray> .
+
+ns1:Dialysis ns1:label <https://en.wikipedia.org/wiki/Dialysis> .
+
+ns1:ECG ns1:label <https://en.wikipedia.org/wiki/ECG> .
+
+ns1:Enlarged_prostate ns2:type <https://en.wikipedia.org/wiki/Enlarged_Prostate> .
+
+ns1:Environmental_Factors ns1:label <https://en.wikipedia.org/wiki/Environmental_Factors> .
+
+ns1:Fatigue ns1:label <https://en.wikipedia.org/wiki/Fatigue> .
+
+ns1:Feeling_sick ns2:type <https://en.wikipedia.org/wiki/Feeling_Sick> .
+
+ns1:Fungal_Infection ns1:label <https://en.wikipedia.org/wiki/Fungal_Infection> .
+
+ns1:Genetic_Factors ns1:label <https://en.wikipedia.org/wiki/Genetic_Factors> .
+
+ns1:Glomerulonephritis ns1:label <https://en.wikipedia.org/wiki/Glomerulonephritis> .
+
+ns1:HealthyLifestyle ns2:type <https://en.wikipedia.org/wiki/Healthy_Lifestyle> .
+
+ns1:Heart_Conditions ns1:label <https://en.wikipedia.org/wiki/Heart_Conditions> .
+
+ns1:Heart_attack ns2:type <https://en.wikipedia.org/wiki/Heart_Attack> .
+
+ns1:Heart_condition ns1:label <https://en.wikipedia.org/wiki/Heart_condition> .
+
+ns1:Heart_conditions ns1:label <https://en.wikipedia.org/wiki/Heart_conditions> .
+
+ns1:HighTemperature ns2:type <https://en.wikipedia.org/wiki/High_Temperature> .
+
+ns1:High_Blood_Pressure ns1:label <https://en.wikipedia.org/wiki/High_Blood_Pressure> .
+
+ns1:High_Cholesterol ns1:label <https://en.wikipedia.org/wiki/High_Cholesterol> .
+
+ns1:High_blood_pressure ns2:type <https://en.wikipedia.org/wiki/High_Blood_Pressure> .
+
+ns1:High_cholesterol ns2:type <https://en.wikipedia.org/wiki/High_Cholesterol> .
+
+ns1:High_temperature ns1:label <https://en.wikipedia.org/wiki/High_temperature> .
+
+ns1:Hydration ns1:label <https://en.wikipedia.org/wiki/Hydration> .
+
+ns1:Infection ns1:label <https://en.wikipedia.org/wiki/Infection> ;
+    ns1:may_cause ns1:Aspiration_pneumonia,
+        ns1:COVID_19,
+        ns1:Flu,
+        ns1:RSV .
+
+ns1:Inhaled_Corticosteroids ns1:label <https://en.wikipedia.org/wiki/Inhaled_Corticosteroids> .
+
+ns1:Injection ns1:label <https://en.wikipedia.org/wiki/Injection> .
+
+ns1:Kidney_infections ns2:type <https://en.wikipedia.org/wiki/Kidney_Infections> .
+
+ns1:Kidney_stones ns2:type <https://en.wikipedia.org/wiki/Kidney_Stones> .
+
+ns1:Kidney_transplant ns2:type <https://en.wikipedia.org/wiki/Kidney_Transplant> .
+
+ns1:Lifestyle_Factors ns1:label <https://en.wikipedia.org/wiki/Lifestyle_Factors> .
+
+ns1:Lifestyle_changes ns2:type <https://en.wikipedia.org/wiki/Lifestyle_Changes> .
+
+ns1:Long-term_Medical_Condition ns1:label <https://en.wikipedia.org/wiki/Long-term_Medical_Condition> .
+
+ns1:LossOfAppetite ns2:type <https://en.wikipedia.org/wiki/Loss_of_Appetite> .
+
+ns1:Lung_Conditions ns1:label <https://en.wikipedia.org/wiki/Lung_Conditions> .
+
+ns1:Lung_condition ns1:label <https://en.wikipedia.org/wiki/Lung_condition> .
+
+ns1:Lung_conditions ns1:label <https://en.wikipedia.org/wiki/Lung_conditions> .
+
+ns1:Medicine ns1:label <https://en.wikipedia.org/wiki/Medicine> .
+
+ns1:NonSmallCellLCancer ns2:type <https://en.wikipedia.org/wiki/Non-Small_Cell_Lung_Cancer> .
+
+ns1:NonSmokers ns2:type <https://en.wikipedia.org/wiki/Non-Smokers> .
+
+ns1:Obesity ns1:label <https://en.wikipedia.org/wiki/Obesity> ;
+    ns1:risk ns1:HeartProblems .
+
+ns1:Occupational_Sensitizers ns1:label <https://en.wikipedia.org/wiki/Occupational_Sensitizers> .
+
+ns1:OlderPeople ns2:type <https://en.wikipedia.org/wiki/Older_People> .
+
+ns1:Older_age ns2:type <https://en.wikipedia.org/wiki/Older_Age> .
+
+ns1:Over_65 ns1:label <https://en.wikipedia.org/wiki/Over_65> .
+
+ns1:OxygenTherapy ns2:type <https://en.wikipedia.org/wiki/Oxygen_Therapy> .
+
+ns1:Oxygen_Therapy ns1:label <https://en.wikipedia.org/wiki/Oxygen_Therapy> .
+
+ns1:PainBreathing ns2:type <https://en.wikipedia.org/wiki/Pain_Breathing> .
+
+ns1:People_of_All_Ages ns1:label <https://en.wikipedia.org/wiki/People_of_All_Ages> .
+
+ns1:Pericarditis ns1:causes ns1:ChestPain ;
+    ns1:label <https://en.wikipedia.org/wiki/Pericarditis> .
+
+ns1:PersistentBreathlessness ns2:type <https://en.wikipedia.org/wiki/Persistent_Breathlessness> .
+
+ns1:PersistentCough ns2:type <https://en.wikipedia.org/wiki/Persistent_Cough> .
+
+ns1:Pregnancy ns1:label <https://en.wikipedia.org/wiki/Pregnancy> .
+
+ns1:Prevention_RSV ns2:type <https://en.wikipedia.org/wiki/Prevention_for_RSV> .
+
+ns1:Radiotherapy ns1:label <https://en.wikipedia.org/wiki/Radiotherapy> .
+
+ns1:Respiratory_Infections ns1:label <https://en.wikipedia.org/wiki/Respiratory_Infections> .
+
+ns1:RiskGroupBabies ns2:type <https://en.wikipedia.org/wiki/Risk_Group:_Babies> .
+
+ns1:RiskGroupOlderPeople ns2:type <https://en.wikipedia.org/wiki/Risk_Group:_Older_People> .
+
+ns1:Risk_Flu ns2:type <https://en.wikipedia.org/wiki/Who_is_at_Risk_for_Flu> .
+
+ns1:Risk_Pneumonia ns2:type <https://en.wikipedia.org/wiki/Who_is_at_Risk_for_Pneumonia> .
+
+ns1:Risk_RSV ns2:type <https://en.wikipedia.org/wiki/Who_is_at_Risk_for_RSV> .
+
+ns1:ShortnessOfBreath ns2:type <https://en.wikipedia.org/wiki/Shortness_of_Breath> .
+
+ns1:SmallCellLCancer ns2:type <https://en.wikipedia.org/wiki/Small_Cell_Lung_Cancer> .
+
+ns1:Stopping_Smoking ns1:label <https://en.wikipedia.org/wiki/Stopping_Smoking> .
+
+ns1:Stroke ns1:label <https://en.wikipedia.org/wiki/Stroke> .
+
+ns1:Swollen_ankles ns2:type <https://en.wikipedia.org/wiki/Swollen_Ankles> .
+
+ns1:Symptoms_Flu ns2:type <https://en.wikipedia.org/wiki/Symptoms_of_Flu> .
+
+ns1:Symptoms_Pneumonia ns2:type <https://en.wikipedia.org/wiki/Symptoms_of_Pneumonia> .
+
+ns1:Symptoms_RSV ns2:type <https://en.wikipedia.org/wiki/Symptoms_of_RSV> .
+
+ns1:TargetedTherapies ns2:type <https://en.wikipedia.org/wiki/Targeted_Therapies> .
+
+ns1:Tiredness ns1:label <https://en.wikipedia.org/wiki/Tiredness> .
+
+ns1:Treatments_Flu ns2:type <https://en.wikipedia.org/wiki/Treatments_for_Flu> .
+
+ns1:Treatments_Pneumonia ns2:type <https://en.wikipedia.org/wiki/Treatments_for_Pneumonia> .
+
+ns1:Triggers ns1:label <https://en.wikipedia.org/wiki/Triggers> .
+
+ns1:UnexplainedTiredness ns2:type <https://en.wikipedia.org/wiki/Unexplained_Tiredness> .
+
+ns1:Urine_tests ns2:type <https://en.wikipedia.org/wiki/Urine_Tests> .
+
+ns1:Vaccination ns1:label <https://en.wikipedia.org/wiki/Vaccination> .
+
+ns1:Vaccine ns2:type <https://en.wikipedia.org/wiki/RSV_Vaccine> .
+
+ns1:WeightLoss ns2:type <https://en.wikipedia.org/wiki/Weight_Loss> .
+
+ns1:Who_at_Risk_Asthma ns2:type <https://en.wikipedia.org/wiki/People_of_all_ages_(often_starts_in_childhood)> .
+
+ns1:Who_at_Risk_Pneumonia ns2:type <https://en.wikipedia.org/wiki/Babies,_Older_people,_Heart_or_lung_conditions> .
+
+ns1:X-Ray ns1:label <https://en.wikipedia.org/wiki/X-Ray> .
+
+ns1:X_ray ns2:type <https://en.wikipedia.org/wiki/X-ray> .
+
+ns1:Young_Children ns1:label <https://en.wikipedia.org/wiki/Young_Children> .
+
+ns1:Allergy_Treatments ns1:label <https://en.wikipedia.org/wiki/Allergy_Treatments> .
+
+ns1:Aspiration_Pneumonia ns1:label <https://en.wikipedia.org/wiki/Aspiration_Pneumonia> .
+
+ns1:Bacterial_Infection ns1:label <https://en.wikipedia.org/wiki/Bacterial_Infection> .
+
+ns1:Blood_tests ns1:label <https://en.wikipedia.org/wiki/Blood_tests> ;
+    ns2:type <https://en.wikipedia.org/wiki/Blood_Tests> .
+
+ns1:Breathlessness ns1:label <https://en.wikipedia.org/wiki/Breathlessness> .
+
+ns1:Bronchiolitis ns1:label <https://en.wikipedia.org/wiki/Bronchiolitis> .
+
+ns1:COVID-19_Vaccine ns1:label <https://en.wikipedia.org/wiki/COVID-19_Vaccine> .
+
+ns1:Cold ns1:label <https://en.wikipedia.org/wiki/Cold> .
+
+ns1:Coughing ns1:label <https://en.wikipedia.org/wiki/Coughing> .
+
+ns1:Diabetes ns1:label <https://en.wikipedia.org/wiki/Diabetes> ;
+    ns1:risk ns1:HeartProblems .
+
+ns1:Emergency_Treatment ns1:label <https://en.wikipedia.org/wiki/Emergency_Treatment> .
+
+ns1:Flu_Vaccine ns1:label <https://en.wikipedia.org/wiki/Flu_Vaccine> ;
+    ns1:preventing ns1:Flu .
+
+ns1:Flu_vaccine ns1:label <https://en.wikipedia.org/wiki/Flu_vaccine> .
+
+ns1:HeartAttack ns1:causes ns1:ChestPain ;
+    ns2:type <https://en.wikipedia.org/wiki/Heart_Attack> .
+
+ns1:Older_Adults ns1:label <https://en.wikipedia.org/wiki/Older_Adults> .
+
+ns1:Older_People ns1:label <https://en.wikipedia.org/wiki/Older_People> .
+
+ns1:Older_people ns1:label <https://en.wikipedia.org/wiki/Older_people> .
+
+ns1:Pneumococcal_Vaccine ns1:label <https://en.wikipedia.org/wiki/Pneumococcal_Vaccine> .
+
+ns1:Pneumococcal_vaccine ns1:label <https://en.wikipedia.org/wiki/Pneumococcal_vaccine> .
+
+ns1:Pulse_Oximetry ns1:label <https://en.wikipedia.org/wiki/Pulse_Oximetry> ;
+    ns2:type <https://en.wikipedia.org/wiki/Pulse_Oximetry_Test> .
+
+ns1:RSV ns1:cause ns1:Bronchiolitis,
+        ns1:Pneumonia ;
+    ns1:causes ns1:Bronchiolitis,
+        ns1:Pneumonia ;
+    ns1:diagnosed_by ns1:Pulse_Oximetry ;
+    ns1:diagnosing ns1:Pulse_Oximetry ;
+    ns1:label <https://en.wikipedia.org/wiki/RSV> ;
+    ns1:prevention ns1:Prevention_RSV,
+        ns1:RSV_Vaccine,
+        ns1:Vaccine ;
+    ns1:risk ns1:Babies,
+        ns1:Heart_Condition,
+        ns1:Lung_Condition,
+        ns1:Older_Adults,
+        ns1:Risk_RSV,
+        ns1:Smokers,
+        ns1:Weakened_Immune_System ;
+    ns1:risk_group ns1:Babies,
+        ns1:Heart_Conditions,
+        ns1:Lung_Conditions,
+        ns1:Older_Adults,
+        ns1:Smokers,
+        ns1:Weakened_Immune_System ;
+    ns1:symptoms ns1:Cold,
+        ns1:Confusion,
+        ns1:Cough,
+        ns1:High_Temperature,
+        ns1:Runny_Nose,
+        ns1:Shortness_of_Breath,
+        ns1:Symptoms_RSV,
+        ns1:Wheezing ;
+    ns1:symptoms_include ns1:Cold,
+        ns1:Confusion,
+        ns1:Cough,
+        ns1:High_Temperature,
+        ns1:Runny_Nose,
+        ns1:Shortness_of_Breath,
+        ns1:Wheezing ;
+    ns1:treatment ns1:Injection,
+        ns1:Oxygen_Therapy ;
+    ns2:type <https://en.wikipedia.org/wiki/Respiratory_Syncytial_Virus> .
+
+ns1:RSV_vaccine ns1:label <https://en.wikipedia.org/wiki/RSV_vaccine> .
+
+ns1:Runny_Nose ns1:label <https://en.wikipedia.org/wiki/Runny_Nose> .
+
+ns1:Shortness_of_breath ns1:label <https://en.wikipedia.org/wiki/Shortness_of_breath> ;
+    ns2:type <https://en.wikipedia.org/wiki/Shortness_of_Breath> .
+
+ns1:Smokers ns1:label <https://en.wikipedia.org/wiki/Smokers> .
+
+ns1:Smoking ns1:label <https://en.wikipedia.org/wiki/Smoking> .
+
+ns1:Surgery ns1:label <https://en.wikipedia.org/wiki/Surgery> .
+
+ns1:Tight_Chest ns1:label <https://en.wikipedia.org/wiki/Tight_Chest> .
+
+ns1:Viral_Infection ns1:label <https://en.wikipedia.org/wiki/Viral_Infection> .
+
+ns1:X-ray ns1:label <https://en.wikipedia.org/wiki/X-ray> .
+
+ns1:Fluids ns1:aid ns1:Hydration ;
+    ns1:label <https://en.wikipedia.org/wiki/Fluids> .
+
+ns1:Heart_Condition ns1:label <https://en.wikipedia.org/wiki/Heart_Condition> .
+
+ns1:Lifestyle_Changes ns1:label <https://en.wikipedia.org/wiki/Lifestyle_Changes> .
+
+ns1:Lung_Condition ns1:label <https://en.wikipedia.org/wiki/Lung_Condition> .
+
+ns1:Medication ns1:label <https://en.wikipedia.org/wiki/Medication> ;
+    ns1:type ns1:Bronchodilators,
+        ns1:Inhaled_Corticosteroids .
+
+ns1:Oxygen ns1:label <https://en.wikipedia.org/wiki/Oxygen> .
+
+ns1:RSV_Vaccine ns1:label <https://en.wikipedia.org/wiki/RSV_Vaccine> .
+
+ns1:Vaccines ns1:includes ns1:COVID-19_Vaccine,
+        ns1:Flu_Vaccine,
+        ns1:Pneumococcal_Vaccine,
+        ns1:RSV_Vaccine ;
+    ns1:label <https://en.wikipedia.org/wiki/Vaccines> ;
+    ns1:option ns1:COVID-19_vaccine,
+        ns1:Flu_vaccine,
+        ns1:Pneumococcal_vaccine,
+        ns1:RSV_vaccine .
+
+ns1:Weakened_Immune_System ns1:label <https://en.wikipedia.org/wiki/Weakened_Immune_System> .
+
+ns1:Antibiotics ns1:label <https://en.wikipedia.org/wiki/Antibiotics> ;
+    ns1:treatment ns1:Pneumonia ;
+    ns1:treats ns1:Pneumonia .
+
+ns1:Babies ns1:label <https://en.wikipedia.org/wiki/Babies> .
+
+ns1:ChestPain ns1:symptom ns1:Angina,
+        ns1:HeartAttack,
+        ns1:Pericarditis ;
+    ns2:type <https://en.wikipedia.org/wiki/Chest_Pain> .
+
+ns1:Chest_Pain ns1:label <https://en.wikipedia.org/wiki/Chest_Pain> .
+
+ns1:Confusion ns1:label <https://en.wikipedia.org/wiki/Confusion> .
+
+ns1:Flu ns1:label <https://en.wikipedia.org/wiki/Flu> ;
+    ns1:possible_cause ns1:Pneumonia ;
+    ns1:risk ns1:Long-term_Medical_Condition,
+        ns1:Older_People,
+        ns1:Pregnancy,
+        ns1:Risk_Flu,
+        ns1:Weakened_Immune_System ;
+    ns1:symptoms ns1:Symptoms_Flu ;
+    ns1:treatment ns1:Treatments_Flu .
+
+ns1:Wheezing ns1:label <https://en.wikipedia.org/wiki/Wheezing> .
+
+ns1:Cough ns1:label <https://en.wikipedia.org/wiki/Cough> .
+
+ns1:High_Temperature ns1:label <https://en.wikipedia.org/wiki/High_Temperature> .
+
+ns1:HeartProblems ns2:type <https://en.wikipedia.org/wiki/Heart_Problems> .
+
+ns1:Shortness_of_Breath ns1:label <https://en.wikipedia.org/wiki/Shortness_of_Breath> .
+
+ns1:Pneumonia ns1:at_risk_group ns1:Cardiovascular_Disease,
+        ns1:Over_65,
+        ns1:Young_Children ;
+    ns1:cause ns1:Bacterial_Infection,
+        ns1:Viral_Infection ;
+    ns1:caused_by ns1:Aspiration_Pneumonia,
+        ns1:Bacterial_Infection,
+        ns1:Fungal_Infection,
+        ns1:Infection,
+        ns1:Viral_Infection ;
+    ns1:causes ns1:ChestPain ;
+    ns1:diagnosed_by ns1:Blood_tests,
+        ns1:DiagnosisBloodTest,
+        ns1:DiagnosisPulseOximetry,
+        ns1:DiagnosisXRay,
+        ns1:X-ray ;
+    ns1:diagnosed_with ns1:X_ray ;
+    ns1:diagnosing ns1:Blood_Tests,
+        ns1:X-Ray,
+        ns1:X-ray ;
+    ns1:has_prevention ns1:Vaccines ;
+    ns1:has_risk_group ns1:Who_at_Risk_Pneumonia ;
+    ns1:has_symptom ns1:Chest_Pain,
+        ns1:Confusion,
+        ns1:Cough,
+        ns1:Fatigue,
+        ns1:High_Temperature,
+        ns1:Shortness_of_Breath ;
+    ns1:has_treatment ns1:Antibiotics,
+        ns1:Fluids,
+        ns1:Oxygen ;
+    ns1:label <https://en.wikipedia.org/wiki/Pneumonia> ;
+    ns1:prevented_by ns1:COVID_19_vaccine,
+        ns1:Flu_vaccine,
+        ns1:Pneumococcal_vaccine,
+        ns1:RSV_vaccine,
+        ns1:Vaccination ;
+    ns1:preventing ns1:Stopping_Smoking,
+        ns1:Vaccines ;
+    ns1:prevention ns1:COVID-19_Vaccine,
+        ns1:Flu_Vaccine,
+        ns1:Pneumococcal_Vaccine,
+        ns1:RSV_Vaccine,
+        ns1:Vaccines ;
+    ns1:related_to ns1:Chest_Pain,
+        ns1:Cough,
+        ns1:High_Temperature,
+        ns1:Shortness_of_Breath ;
+    ns1:risk ns1:Babies,
+        ns1:Heart_Condition,
+        ns1:Heart_conditions,
+        ns1:Lung_Condition,
+        ns1:Lung_conditions,
+        ns1:Older_People,
+        ns1:Older_people,
+        ns1:Risk_Pneumonia ;
+    ns1:risk_factors ns1:Heart_Condition,
+        ns1:Lung_Condition ;
+    ns1:risk_group ns1:Babies,
+        ns1:Heart_condition,
+        ns1:Lung_condition,
+        ns1:Older_people,
+        ns1:RiskGroupBabies,
+        ns1:RiskGroupOlderPeople ;
+    ns1:symptom ns1:AchingBody,
+        ns1:Aching_body,
+        ns1:Chest_Pain,
+        ns1:Chest_pain,
+        ns1:Confusion,
+        ns1:Cough,
+        ns1:HighTemperature,
+        ns1:High_Temperature,
+        ns1:High_temperature,
+        ns1:LossOfAppetite,
+        ns1:ShortnessOfBreath,
+        ns1:Shortness_of_Breath,
+        ns1:Shortness_of_breath ;
+    ns1:symptoms ns1:Symptoms_Pneumonia ;
+    ns1:treated_by ns1:Antibiotics,
+        ns1:OxygenTherapy ;
+    ns1:treated_with ns1:Antibiotics,
+        ns1:Fluids,
+        ns1:Oxygen ;
+    ns1:treatment ns1:Antibiotics,
+        ns1:Fluids,
+        ns1:Oxygen,
+        ns1:Treatments_Pneumonia ;
+    ns1:type ns1:Aspiration_Pneumonia,
+        ns1:COVID-19,
+        ns1:Flu,
+        ns1:RSV .
+

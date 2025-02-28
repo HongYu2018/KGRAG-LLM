@@ -1,0 +1,385 @@
+To address the query about the symptoms of respiratory syncytial virus (RSV) and how to avoid it, we can parse the Knowledge Graph data and extract the relevant information. Here's the reconstructed output based on the triples:
+
+**Respiratory Syncytial Virus (RSV):**  
+- **Symptoms:**  
+  - Bronchiolitis  
+  - Cold-Like Symptoms  
+  - Cough  
+  - High Temperature  
+  - Pneumonia  
+  - Runny Nose  
+  - Sneezing  
+
+**Prevention Methods for RSV:**  
+- **Preventive Vaccine:**  
+  - RSV Vaccine  
+- **Preventive Treatment:**  
+  - Palivizumab  
+- **General Prevention:**  
+  - Avoid Contact  
+  - Avoid Smoking  
+  - No Smoking  
+  - Wash Hands  
+
+These details encapsulate the symptoms commonly associated with RSV and the preventative measures suggested to reduce the risk of infection.
+ <p><b>Bronchiolitis is a common chest infection that affects babies and children under 2. It's usually mild and can be treated at home, but it can be serious.</b></p>
+
+<p>Bronchiolitis is different from <a href="https://api.nhs.uk/conditions/bronchitis/">bronchitis</a>, which causes a cough with lots of mucus and can affect people of all ages.</p>
+
+<p><b>Bronchiolitis is a common chest infection that affects babies and children under 2. It's usually mild and can be treated at home, but it can be serious.</b></p>
+
+<p>Bronchiolitis is different from <a href="https://api.nhs.uk/conditions/bronchitis/">bronchitis</a>, which causes a cough with lots of mucus and can affect people of all ages.</p>
+
+<p>The early symptoms of bronchiolitis are similar to a cold, such as sneezing, a runny or blocked nose, a cough and a slightly high temperature of 38C.</p><p>A child with bronchiolitis may then get other symptoms, such as:</p><ul><li>breathing more quickly</li><li>finding it difficult to feed or eat</li><li>noisy breathing (wheezing)</li><li>becoming irritable</li></ul><p>Symptoms are usually worst between days 3 and 5, and the cough usually gets better in 3 weeks.</p>
+
+<p>The early symptoms of bronchiolitis are similar to a cold, such as sneezing, a runny or blocked nose, a cough and a slightly high temperature of 38C.</p><p>A child with bronchiolitis may then get other symptoms, such as:</p><ul><li>breathing more quickly</li><li>finding it difficult to feed or eat</li><li>noisy breathing (wheezing)</li><li>becoming irritable</li></ul><p>Symptoms are usually worst between days 3 and 5, and the cough usually gets better in 3 weeks.</p>
+
+<h2>Call 999 or go to A&amp;E if:</h2><div class="block-richtext">
+<ul><li>your child is having difficulty breathing – you may notice grunting noises or their tummy sucking under their ribs</li><li>there are pauses when your child breathes</li><li>your child's <a href="https://api.nhs.uk/conditions/blue-skin-or-lips-cyanosis/">skin, tongue or lips are blue</a></li><li>your child is floppy and will not wake up or stay awake</li></ul><p>As a parent, you may know if your child seems seriously unwell and should trust your own judgement.</p>
+</div>
+<div class="block-action_link">
+<div class="nhsuk-action-link">
+<a class="nhsuk-action-link__link" href="https://www.nhs.uk/Service-Search/other-services/Accident%20and%20emergency%20services/LocationSearch/428">
+<svg aria-hidden="true" class="nhsuk-icon nhsuk-icon__arrow-right-circle" height="36" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0h24v24H0z" fill="none"></path>
+<path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
+</svg>
+<span class="nhsuk-action-link__text">Find your nearest A&amp;E</span>
+</a>
+</div>
+</div>
+
+<h2>Call 999 or go to A&amp;E if:</h2><div class="block-richtext">
+<ul><li>your child is having difficulty breathing – you may notice grunting noises or their tummy sucking under their ribs</li><li>there are pauses when your child breathes</li><li>your child's <a href="https://api.nhs.uk/conditions/blue-skin-or-lips-cyanosis/">skin, tongue or lips are blue</a></li><li>your child is floppy and will not wake up or stay awake</li></ul><p>As a parent, you may know if your child seems seriously unwell and should trust your own judgement.</p>
+</div>
+<div class="block-action_link">
+<div class="nhsuk-action-link">
+<a class="nhsuk-action-link__link" href="https://www.nhs.uk/Service-Search/other-services/Accident%20and%20emergency%20services/LocationSearch/428">
+<svg aria-hidden="true" class="nhsuk-icon nhsuk-icon__arrow-right-circle" height="36" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0h24v24H0z" fill="none"></path>
+<path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
+</svg>
+<span class="nhsuk-action-link__text">Find your nearest A&amp;E</span>
+</a>
+</div>
+</div>
+
+<h2>Ask for an urgent GP appointment or call 111 if:</h2><div class="block-richtext">
+<ul><li>your child has had a cold and it's getting worse</li><li>your child is feeding or eating much less than normal</li><li>your child has had a dry nappy for 12 hours or more, or shows other <a href="https://api.nhs.uk/conditions/dehydration/">signs of dehydration</a></li><li>your baby is under 3 months and has a temperature of 38C, or is older than 3 months and has a temperature of 39C or higher</li><li>your baby feels hotter than usual when you touch their back or chest, or feels sweaty</li><li>your child is very tired or irritable</li></ul>
+</div>
+
+<h2>Ask for an urgent GP appointment or call 111 if:</h2><div class="block-richtext">
+<ul><li>your child has had a cold and it's getting worse</li><li>your child is feeding or eating much less than normal</li><li>your child has had a dry nappy for 12 hours or more, or shows other <a href="https://api.nhs.uk/conditions/dehydration/">signs of dehydration</a></li><li>your baby is under 3 months and has a temperature of 38C, or is older than 3 months and has a temperature of 39C or higher</li><li>your baby feels hotter than usual when you touch their back or chest, or feels sweaty</li><li>your child is very tired or irritable</li></ul>
+</div>
+
+<p>There's no specific treatment for bronchiolitis. It usually gets better on its own and you can look after your child at home.</p><p>But it can be serious in some children, who may need to be treated in hospital.</p>
+
+<div><h3>Do</h3><ul><li><p>give <a href="/medicines/paracetamol-for-children/">children's paracetamol</a> to babies and children over 2 months old or <a href="/medicines/ibuprofen-for-children/">ibuprofen</a> to babies and children over 3 months old – but do not give aspirin to a child under 16</p></li><li><p>try using salt water (saline) drops if your child's nose is blocked</p></li><li><p>keep your child upright as much as possible when they're awake – this will help them breathe more easily</p></li><li><p>encourage your child to drink lots of fluids – try smaller feeds more often in babies, and give older children extra water or diluted fruit juice</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not smoke around your child</p></li><li><p>do not try to lower your child's temperature by sponging them with cool water or taking off all their clothes</p></li></ul></div>
+
+<p>There's no specific treatment for bronchiolitis. It usually gets better on its own and you can look after your child at home.</p><p>But it can be serious in some children, who may need to be treated in hospital.</p>
+
+<div><h3>Do</h3><ul><li><p>give <a href="/medicines/paracetamol-for-children/">children's paracetamol</a> to babies and children over 2 months old or <a href="/medicines/ibuprofen-for-children/">ibuprofen</a> to babies and children over 3 months old – but do not give aspirin to a child under 16</p></li><li><p>try using salt water (saline) drops if your child's nose is blocked</p></li><li><p>keep your child upright as much as possible when they're awake – this will help them breathe more easily</p></li><li><p>encourage your child to drink lots of fluids – try smaller feeds more often in babies, and give older children extra water or diluted fruit juice</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not smoke around your child</p></li><li><p>do not try to lower your child's temperature by sponging them with cool water or taking off all their clothes</p></li></ul></div>
+
+<p>There are some things you can do to lower the chances of your child getting bronchiolitis or spreading the viruses that cause it, such as:</p><ul><li>wash your hands and your child's hands often</li><li>wash or wipe down toys and clean surfaces regularly</li><li>avoid sharing things like cutlery and cups</li><li>use disposable tissues and throw them away as soon as you've used them</li><li>keep newborn babies away from anyone with a cold or the flu – especially if they were born prematurely or have serious health conditions</li></ul><p>It's also important not to smoke around your child. Children who breathe in cigarette smoke have a higher risk of getting bronchiolitis.</p><h3>RSV vaccination</h3><p>The <a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> helps reduce the risk of a common infection called <a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a> causing serious problems such as bronchiolitis.</p><p>The vaccine is available on the NHS from 28 weeks of pregnancy. This will help protect your baby for the first few months after they're born.</p><p>It's also offered to adults aged 75 to 79.</p><h3>Children at risk of severe bronchiolitis</h3><p>Some children may have a higher risk of getting seriously ill with bronchiolitis.</p><p>This includes children who:</p><ul><li>were born very prematurely</li><li>have a heart or lung condition</li><li>have a weakened immune system</li></ul><p>These children may be able to have treatment in the winter (between October and March) to stop them getting severe bronchiolitis.</p>
+
+<p>There are some things you can do to lower the chances of your child getting bronchiolitis or spreading the viruses that cause it, such as:</p><ul><li>wash your hands and your child's hands often</li><li>wash or wipe down toys and clean surfaces regularly</li><li>avoid sharing things like cutlery and cups</li><li>use disposable tissues and throw them away as soon as you've used them</li><li>keep newborn babies away from anyone with a cold or the flu – especially if they were born prematurely or have serious health conditions</li></ul><p>It's also important not to smoke around your child. Children who breathe in cigarette smoke have a higher risk of getting bronchiolitis.</p><h3>RSV vaccination</h3><p>The <a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> helps reduce the risk of a common infection called <a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a> causing serious problems such as bronchiolitis.</p><p>The vaccine is available on the NHS from 28 weeks of pregnancy. This will help protect your baby for the first few months after they're born.</p><p>It's also offered to adults aged 75 to 79.</p><h3>Children at risk of severe bronchiolitis</h3><p>Some children may have a higher risk of getting seriously ill with bronchiolitis.</p><p>This includes children who:</p><ul><li>were born very prematurely</li><li>have a heart or lung condition</li><li>have a weakened immune system</li></ul><p>These children may be able to have treatment in the winter (between October and March) to stop them getting severe bronchiolitis.</p>
+
+<p>Bronchiolitis is caused by a viral infection, usually <a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a>.</p><p>RSV is very common and spreads easily in coughs and sneezes. Almost all children get it at least once before they're 2 years old.</p><p>It's not usually serious, but some babies and children have a higher risk of getting bronchiolitis, particularly:</p><ul><li>babies under 6 months old</li><li>babies and children who were born prematurely</li><li>babies and children with a weakened immune system, or long-term lung or heart conditions</li></ul>
+
+<p>Bronchiolitis is caused by a viral infection, usually <a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a>.</p><p>RSV is very common and spreads easily in coughs and sneezes. Almost all children get it at least once before they're 2 years old.</p><p>It's not usually serious, but some babies and children have a higher risk of getting bronchiolitis, particularly:</p><ul><li>babies under 6 months old</li><li>babies and children who were born prematurely</li><li>babies and children with a weakened immune system, or long-term lung or heart conditions</li></ul> You can often treat a cold without seeing a GP. You should begin to feel better in about 1 to 2 weeks.
+
+<p>Cold symptoms come on gradually over 2 to 3 days.</p><p>The main symptoms include:</p><ul><li>a blocked or runny nose</li><li>sneezing</li><li>a sore throat</li><li>a hoarse voice</li><li>a cough</li><li>feeling tired and unwell</li></ul><p>You may also have:</p><ul><li>a high temperature</li><li>aching muscles</li><li>a loss of taste and smell</li><li>a feeling of pressure in your ears and face</li></ul><p>Symptoms of a cold can last longer in young children. They may also be irritable, have difficulty feeding and sleeping, breathe through their mouth, and get sick after coughing.</p>
+
+<p>Cold symptoms come on gradually over 2 to 3 days.</p><p>The main symptoms include:</p><ul><li>a blocked or runny nose</li><li>sneezing</li><li>a sore throat</li><li>a hoarse voice</li><li>a cough</li><li>feeling tired and unwell</li></ul><p>You may also have:</p><ul><li>a high temperature</li><li>aching muscles</li><li>a loss of taste and smell</li><li>a feeling of pressure in your ears and face</li></ul><p>Symptoms of a cold can last longer in young children. They may also be irritable, have difficulty feeding and sleeping, breathe through their mouth, and get sick after coughing.</p>
+
+<p>You can usually treat a cold at home without seeing a GP.</p><p>There are things you can do to help you get better more quickly.</p>
+
+<div><h3>Do</h3><ul><li><p>get plenty of rest</p></li><li><p>drink lots of fluid, such as water, to avoid <a href="https://api.nhs.uk/conditions/dehydration/">dehydration</a></p></li><li><p>eat healthy food (it's common for small children to lose their appetite for a few days)</p></li><li><p>gargle salt water to soothe a <a href="https://api.nhs.uk/conditions/sore-throat/">sore throat</a> (not suitable for children)</p></li><li><p>drink a hot lemon and honey drink to soothe a sore throat</p></li><li><p>breathe in steam to ease a blocked nose – try sitting in the bathroom with a hot shower running</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not let children breathe in steam from a bowl of hot water because of the risk of scalding</p></li><li><p>do not give aspirin to children under the age of 16</p></li><li><p>do not smoke as it can make your symptoms worse</p></li></ul></div>
+
+<p>If you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p><h3>A pharmacist can help with cold medicines</h3><p>You can buy cough and cold medicines from pharmacies or supermarkets.</p><p>A pharmacist can advise you on the best medicine, such as:</p><ul><li>medicines like <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to ease aches or lower a temperature</li><li><a href="https://api.nhs.uk/conditions/decongestants/">decongestant nasal sprays, drops or tablets</a> to unblock your nose (decongestants should not be used by children under 6)</li><li>vapour rubs to help ease chesty coughs in babies and small children</li></ul><p>You can buy nasal sprays without a prescription, but they should not be used for more than a week as this can make your symptoms worse.</p><p>Do not use other cough and cold medicines if you're also taking paracetamol and ibuprofen tablets as you may take more medicine than you should.</p><p>Some cough and cold medicines are also not suitable for babies, children and pregnant women.</p><p>There's little evidence that supplements such as vitamin C, echinacea or garlic prevent colds or help you get better more quickly.</p>
+
+<p><a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy">Find a pharmacy</a></p>
+
+
+<p>You can usually treat a cold at home without seeing a GP.</p><p>There are things you can do to help you get better more quickly.</p>
+
+<div><h3>Do</h3><ul><li><p>get plenty of rest</p></li><li><p>drink lots of fluid, such as water, to avoid <a href="https://api.nhs.uk/conditions/dehydration/">dehydration</a></p></li><li><p>eat healthy food (it's common for small children to lose their appetite for a few days)</p></li><li><p>gargle salt water to soothe a <a href="https://api.nhs.uk/conditions/sore-throat/">sore throat</a> (not suitable for children)</p></li><li><p>drink a hot lemon and honey drink to soothe a sore throat</p></li><li><p>breathe in steam to ease a blocked nose – try sitting in the bathroom with a hot shower running</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not let children breathe in steam from a bowl of hot water because of the risk of scalding</p></li><li><p>do not give aspirin to children under the age of 16</p></li><li><p>do not smoke as it can make your symptoms worse</p></li></ul></div>
+
+<p>If you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p><h3>A pharmacist can help with cold medicines</h3><p>You can buy cough and cold medicines from pharmacies or supermarkets.</p><p>A pharmacist can advise you on the best medicine, such as:</p><ul><li>medicines like <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to ease aches or lower a temperature</li><li><a href="https://api.nhs.uk/conditions/decongestants/">decongestant nasal sprays, drops or tablets</a> to unblock your nose (decongestants should not be used by children under 6)</li><li>vapour rubs to help ease chesty coughs in babies and small children</li></ul><p>You can buy nasal sprays without a prescription, but they should not be used for more than a week as this can make your symptoms worse.</p><p>Do not use other cough and cold medicines if you're also taking paracetamol and ibuprofen tablets as you may take more medicine than you should.</p><p>Some cough and cold medicines are also not suitable for babies, children and pregnant women.</p><p>There's little evidence that supplements such as vitamin C, echinacea or garlic prevent colds or help you get better more quickly.</p>
+
+<p><a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy">Find a pharmacy</a></p>
+
+
+<h2>See a GP if:</h2><div class="block-richtext">
+<ul><li>you have a high temperature for more than 3 days</li><li>your cold symptoms get worse</li><li>your temperature is very high or you feel hot and shivery</li><li>you feel short of breath or have chest pain</li><li>you're worried about your child's cold symptoms</li><li>your cold symptoms do not get better after 10 days</li><li>you have a cough for more than 3 weeks</li><li>you get cold symptoms and you have a long-term medical condition (for example, diabetes, or a heart, lung or kidney condition)</li><li>you get cold symptoms and you have a weakened immune system (for example, because you're having chemotherapy)</li></ul>
+</div>
+
+<h2>See a GP if:</h2><div class="block-richtext">
+<ul><li>you have a high temperature for more than 3 days</li><li>your cold symptoms get worse</li><li>your temperature is very high or you feel hot and shivery</li><li>you feel short of breath or have chest pain</li><li>you're worried about your child's cold symptoms</li><li>your cold symptoms do not get better after 10 days</li><li>you have a cough for more than 3 weeks</li><li>you get cold symptoms and you have a long-term medical condition (for example, diabetes, or a heart, lung or kidney condition)</li><li>you get cold symptoms and you have a weakened immune system (for example, because you're having chemotherapy)</li></ul>
+</div>
+
+<p>GPs do not recommend antibiotics for colds because they will not relieve your symptoms or speed up your recovery.</p><p>Antibiotics only work if you have a bacterial infection, but colds are caused by viruses.</p>
+
+<p>GPs do not recommend antibiotics for colds because they will not relieve your symptoms or speed up your recovery.</p><p>Antibiotics only work if you have a bacterial infection, but colds are caused by viruses.</p>
+
+<p>Colds are caused by viruses and easily spread to other people.</p><p>You're infectious until all your symptoms have gone. This usually takes 1 to 2 weeks. It can be longer in babies and young children.</p><p>Colds are spread by germs from coughs and sneezes, which can live on hands and surfaces for 24 hours.</p><p>To reduce the risk of spreading a cold:</p><ul><li>wash your hands often with warm water and soap</li><li>use tissues to trap germs when you cough or sneeze</li><li>bin used tissues as quickly as possible</li></ul>
+
+<p>Colds are caused by viruses and easily spread to other people.</p><p>You're infectious until all your symptoms have gone. This usually takes 1 to 2 weeks. It can be longer in babies and young children.</p><p>Colds are spread by germs from coughs and sneezes, which can live on hands and surfaces for 24 hours.</p><p>To reduce the risk of spreading a cold:</p><ul><li>wash your hands often with warm water and soap</li><li>use tissues to trap germs when you cough or sneeze</li><li>bin used tissues as quickly as possible</li></ul>
+
+<p>A person with a cold can start spreading it from a few days before their symptoms begin until the symptoms have finished.</p><p>The best ways to avoid catching a cold are:</p><ul><li>washing your hands with warm water and soap</li><li>not sharing towels or household items (like cups or children's toys) with someone who has a cold</li><li>not touching your eyes or nose in case you've come into contact with the virus</li><li>staying fit and healthy</li></ul><p>The flu vaccine does not prevent colds.</p>
+
+<p>A person with a cold can start spreading it from a few days before their symptoms begin until the symptoms have finished.</p><p>The best ways to avoid catching a cold are:</p><ul><li>washing your hands with warm water and soap</li><li>not sharing towels or household items (like cups or children's toys) with someone who has a cold</li><li>not touching your eyes or nose in case you've come into contact with the virus</li><li>staying fit and healthy</li></ul><p>The flu vaccine does not prevent colds.</p> <p><b>A cough will usually clear up on its own within 3 to 4 weeks.</b></p>
+
+<p><b>A cough will usually clear up on its own within 3 to 4 weeks.</b></p>
+
+<p>There's usually no need to see a GP if you have a cough.</p><p>You should:</p><ul><li>rest</li><li>drink plenty of fluids</li><li>try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities</li></ul><p>You could also try:</p><ul><li><a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to treat any pain</li><li>hot lemon and honey (not suitable for babies under 1 year old)</li><li>a herbal medicine called pelargonium (suitable for people aged 12 or over)</li></ul><p>But there's limited evidence to show these work. Hot lemon with honey has a similar effect to cough medicines.</p>
+
+<p>Some medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.</p>
+
+<p>There's usually no need to see a GP if you have a cough.</p><p>You should:</p><ul><li>rest</li><li>drink plenty of fluids</li><li>try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities</li></ul><p>You could also try:</p><ul><li><a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to treat any pain</li><li>hot lemon and honey (not suitable for babies under 1 year old)</li><li>a herbal medicine called pelargonium (suitable for people aged 12 or over)</li></ul><p>But there's limited evidence to show these work. Hot lemon with honey has a similar effect to cough medicines.</p>
+
+<p>Some medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.</p>
+
+<p>If you have a cough, you can ask a pharmacist about:</p><ul><li>cough syrup</li><li>cough medicine (some cough medicines should not be given to children under 12 years old)</li><li>cough sweets</li></ul><p>These will not stop your cough, but may help you cough less.</p><p>Decongestants and cough medicines containing codeine will not stop your cough.</p>
+
+<p><a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy">Find a pharmacy</a></p>
+
+
+<p>If you have a cough, you can ask a pharmacist about:</p><ul><li>cough syrup</li><li>cough medicine (some cough medicines should not be given to children under 12 years old)</li><li>cough sweets</li></ul><p>These will not stop your cough, but may help you cough less.</p><p>Decongestants and cough medicines containing codeine will not stop your cough.</p>
+
+<p><a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy">Find a pharmacy</a></p>
+
+
+<h2>See a GP if:</h2><div class="block-richtext">
+<ul><li>you've had a cough for more than 3 weeks (persistent cough)</li><li>you're losing weight for no reason</li><li>you have a weakened immune system – for example, because of chemotherapy or diabetes</li></ul>
+</div>
+
+<h2>See a GP if:</h2><div class="block-richtext">
+<ul><li>you've had a cough for more than 3 weeks (persistent cough)</li><li>you're losing weight for no reason</li><li>you have a weakened immune system – for example, because of chemotherapy or diabetes</li></ul>
+</div>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing</li><li>you feel very unwell</li><li>you have chest pain</li><li>the side of your neck feels swollen and painful (swollen glands)</li><li>you find it hard to breathe</li><li>you're coughing up blood</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing</li><li>you feel very unwell</li><li>you have chest pain</li><li>the side of your neck feels swollen and painful (swollen glands)</li><li>you find it hard to breathe</li><li>you're coughing up blood</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<p>To find out what's causing your cough, the GP might:</p><ul><li>listen to your chest with a stethoscope</li><li>take a sample of any mucus you might be coughing up</li><li>order an X-ray, allergy test, or a test to see how well your lungs work</li><li>refer you to hospital to see a specialist, but this is rare</li></ul>
+
+<p>To find out what's causing your cough, the GP might:</p><ul><li>listen to your chest with a stethoscope</li><li>take a sample of any mucus you might be coughing up</li><li>order an X-ray, allergy test, or a test to see how well your lungs work</li><li>refer you to hospital to see a specialist, but this is rare</li></ul>
+
+<h3>Important</h3><p><a href="https://api.nhs.uk/conditions/antibiotics/">Antibiotics</a> are not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.</p>
+
+<h3>Important</h3><p><a href="https://api.nhs.uk/conditions/antibiotics/">Antibiotics</a> are not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.</p>
+
+<p>Most coughs are caused by a cold or flu.</p><p>Other causes include:</p><ul><li>smoking</li><li>heartburn (acid reflux)</li><li>allergies – for example, hay fever</li><li>infections like bronchitis or COVID-19</li><li>mucus dripping down the throat from the back of the nose</li></ul><p>A cough is rarely a sign of something serious like lung cancer.</p>
+
+<p>Most coughs are caused by a cold or flu.</p><p>Other causes include:</p><ul><li>smoking</li><li>heartburn (acid reflux)</li><li>allergies – for example, hay fever</li><li>infections like bronchitis or COVID-19</li><li>mucus dripping down the throat from the back of the nose</li></ul><p>A cough is rarely a sign of something serious like lung cancer.</p> <p>Normal body temperature is different for everyone and changes during the day.</p><p>A high temperature is usually considered to be 38C or above. This is sometimes called a fever.</p>
+
+<p>Normal body temperature is different for everyone and changes during the day.</p><p>A high temperature is usually considered to be 38C or above. This is sometimes called a fever.</p>
+
+<p>You may have a high temperature if:</p><ul><li>your chest or back feel hotter than usual</li><li>you have other symptoms, such as shivering (chills), sweating or warm, red skin (this may be harder to see on black or brown skin)</li><li>a thermometer says your temperature is 38C or above</li></ul>
+
+<h3>Important</h3><p>If you feel hot or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.</p>
+
+<p>You may have a high temperature if:</p><ul><li>your chest or back feel hotter than usual</li><li>you have other symptoms, such as shivering (chills), sweating or warm, red skin (this may be harder to see on black or brown skin)</li><li>a thermometer says your temperature is 38C or above</li></ul>
+
+<h3>Important</h3><p>If you feel hot or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.</p>
+
+<p>You do not need to take your temperature using a thermometer, but you can if you have one.</p><p>Make sure you use it correctly to help get an accurate result.</p>
+
+<p>If you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.</p><p>Do not use:</p><ul><li>a glass thermometer because they can be dangerous</li><li>an infrared thermometer because some do not meet UK regulations</li><li>forehead strips because they're not accurate</li></ul>
+
+<p>You do not need to take your temperature using a thermometer, but you can if you have one.</p><p>Make sure you use it correctly to help get an accurate result.</p>
+
+<p>If you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.</p><p>Do not use:</p><ul><li>a glass thermometer because they can be dangerous</li><li>an infrared thermometer because some do not meet UK regulations</li><li>forehead strips because they're not accurate</li></ul>
+
+<h3>Advice for children and babies</h3><p>This page is for adults. For advice about children and babies, including how to take a temperature, see:</p><ul><li><a href="https://api.nhs.uk/conditions/fever-in-children/">high temperature (fever) in children</a></li><li><a href="https://api.nhs.uk/conditions/baby/health/how-to-take-your-babys-temperature/">how to take your baby's temperature</a></li></ul>
+
+<h3>Advice for children and babies</h3><p>This page is for adults. For advice about children and babies, including how to take a temperature, see:</p><ul><li><a href="https://api.nhs.uk/conditions/fever-in-children/">high temperature (fever) in children</a></li><li><a href="https://api.nhs.uk/conditions/baby/health/how-to-take-your-babys-temperature/">how to take your baby's temperature</a></li></ul>
+
+<p>There are some things you can do to help treat a high temperature.</p>
+
+<div><h3>Do</h3><ul><li><p>get lots of rest</p></li><li><p>drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear</p></li><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> if you feel uncomfortable</p></li></ul></div>
+
+<p>Try to stay at home and avoid contact with other people until you do not have a high temperature.</p>
+
+<p>There are some things you can do to help treat a high temperature.</p>
+
+<div><h3>Do</h3><ul><li><p>get lots of rest</p></li><li><p>drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear</p></li><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> if you feel uncomfortable</p></li></ul></div>
+
+<p>Try to stay at home and avoid contact with other people until you do not have a high temperature.</p>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if you have:</h2><div class="block-richtext">
+<ul><li>a high temperature and you've been treating it at home but it's not getting better or is getting worse</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if you have:</h2><div class="block-richtext">
+<ul><li>a high temperature and you've been treating it at home but it's not getting better or is getting worse</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<p>Many things can cause a high temperature. It's not usually a sign of anything serious.</p><p>It's often just caused by your body fighting an infection, such as a <a href="https://api.nhs.uk/conditions/common-cold/">cold</a> or <a href="https://api.nhs.uk/conditions/flu/">flu</a>.</p><p>Sometimes it could be a sign of something more serious if your temperature is very high or will not come down.</p>
+
+<p>Many things can cause a high temperature. It's not usually a sign of anything serious.</p><p>It's often just caused by your body fighting an infection, such as a <a href="https://api.nhs.uk/conditions/common-cold/">cold</a> or <a href="https://api.nhs.uk/conditions/flu/">flu</a>.</p><p>Sometimes it could be a sign of something more serious if your temperature is very high or will not come down.</p> <p><b>A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.</b></p>
+
+<p><b>A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.</b></p>
+
+<p>A normal temperature in babies and children can vary slightly from child to child.</p><p>A high temperature is 38C or more.</p><p>If your child has a high temperature, they might:</p><ul><li>feel hotter than usual when you touch their back or chest</li><li>feel sweaty</li><li>look or feel unwell</li><li>have a seizure or fit, called a <a href="https://api.nhs.uk/conditions/febrile-seizures/">febrile seizure</a></li></ul><p>Use a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.</p>
+
+<p>A normal temperature in babies and children can vary slightly from child to child.</p><p>A high temperature is 38C or more.</p><p>If your child has a high temperature, they might:</p><ul><li>feel hotter than usual when you touch their back or chest</li><li>feel sweaty</li><li>look or feel unwell</li><li>have a seizure or fit, called a <a href="https://api.nhs.uk/conditions/febrile-seizures/">febrile seizure</a></li></ul><p>Use a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.</p>
+
+<p>If your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.</p>
+
+<div><h3>Do</h3><ul><li><p>give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal</p></li><li><p>look out for <a href="https://api.nhs.uk/conditions/dehydration/">signs of dehydration</a></p></li><li><p>give them food if they want it</p></li><li><p>check on your child regularly, including during the night</p></li><li><p>keep them at home</p></li><li><p>give them either <a href="/medicines/paracetamol-for-children/">paracetamol</a> or <a href="/medicines/ibuprofen-for-children/">ibuprofen</a> if they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure</p></li><li><p>get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection</p></li><li><p>do not cover them up in too many clothes or bedclothes</p></li><li><p>do not give aspirin to children under 16 years of age</p></li><li><p>do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to</p></li><li><p>do not give paracetamol to a child under 2 months</p></li><li><p>do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated</p></li><li><p>do not give ibuprofen to children with <a href="https://api.nhs.uk/conditions/asthma/">asthma</a> unless it's been recommended by a doctor</p></li></ul></div>
+
+<p>If your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.</p>
+
+<div><h3>Do</h3><ul><li><p>give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal</p></li><li><p>look out for <a href="https://api.nhs.uk/conditions/dehydration/">signs of dehydration</a></p></li><li><p>give them food if they want it</p></li><li><p>check on your child regularly, including during the night</p></li><li><p>keep them at home</p></li><li><p>give them either <a href="/medicines/paracetamol-for-children/">paracetamol</a> or <a href="/medicines/ibuprofen-for-children/">ibuprofen</a> if they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure</p></li><li><p>get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection</p></li><li><p>do not cover them up in too many clothes or bedclothes</p></li><li><p>do not give aspirin to children under 16 years of age</p></li><li><p>do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to</p></li><li><p>do not give paracetamol to a child under 2 months</p></li><li><p>do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated</p></li><li><p>do not give ibuprofen to children with <a href="https://api.nhs.uk/conditions/asthma/">asthma</a> unless it's been recommended by a doctor</p></li></ul></div>
+
+<p><a href="https://api.nhs.uk/conditions/baby/health/medicines-for-babies-and-children/">Read more about giving medicines to babies and children</a></p>
+
+<p><a href="https://api.nhs.uk/conditions/baby/health/medicines-for-babies-and-children/">Read more about giving medicines to babies and children</a></p>
+
+<h2>Call 111 or your GP surgery now if your child:</h2><div class="block-richtext">
+<ul><li>is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature</li><li>is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature</li><li>has other signs of illness, such as a <a href="https://api.nhs.uk/conditions/rashes-babies-and-children/">rash</a>, as well as a high temperature</li><li>has a high temperature that's lasted for 5 days or more</li><li>does not want to eat, or is not their usual self and you're worried</li><li>is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying<br/></li></ul>
+</div>
+
+<h2>Call 111 or your GP surgery now if your child:</h2><div class="block-richtext">
+<ul><li>is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature</li><li>is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature</li><li>has other signs of illness, such as a <a href="https://api.nhs.uk/conditions/rashes-babies-and-children/">rash</a>, as well as a high temperature</li><li>has a high temperature that's lasted for 5 days or more</li><li>does not want to eat, or is not their usual self and you're worried</li><li>is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying<br/></li></ul>
+</div>
+
+<h2>Call 999 if your child:</h2><div class="block-richtext">
+<ul><li>has a stiff neck</li><li>has a rash that does not fade when you press a glass against it</li><li>is bothered by light</li><li>has a fit (<a href="https://api.nhs.uk/conditions/febrile-seizures/">febrile seizure</a>) for the first time (they cannot stop shaking)</li><li>has unusually cold hands and feet</li><li>has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue</li><li>is drowsy and hard to wake</li><li>is extremely agitated (does not stop crying) or is confused</li><li>has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast</li><li>is not responding like they normally do, or is not interested in feeding or normal activities</li></ul>
+</div>
+
+<h2>Call 999 if your child:</h2><div class="block-richtext">
+<ul><li>has a stiff neck</li><li>has a rash that does not fade when you press a glass against it</li><li>is bothered by light</li><li>has a fit (<a href="https://api.nhs.uk/conditions/febrile-seizures/">febrile seizure</a>) for the first time (they cannot stop shaking)</li><li>has unusually cold hands and feet</li><li>has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue</li><li>is drowsy and hard to wake</li><li>is extremely agitated (does not stop crying) or is confused</li><li>has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast</li><li>is not responding like they normally do, or is not interested in feeding or normal activities</li></ul>
+</div>
+
+<p>A high temperature is the body's natural response to fighting infections like coughs and colds.</p><p>Many things can cause a high temperature in children, from common childhood illnesses like <a href="https://api.nhs.uk/conditions/chickenpox/">chickenpox</a> and <a href="https://api.nhs.uk/conditions/tonsillitis/">tonsillitis</a>, to vaccinations.</p>
+
+<p>A high temperature is the body's natural response to fighting infections like coughs and colds.</p><p>Many things can cause a high temperature in children, from common childhood illnesses like <a href="https://api.nhs.uk/conditions/chickenpox/">chickenpox</a> and <a href="https://api.nhs.uk/conditions/tonsillitis/">tonsillitis</a>, to vaccinations.</p> <p><b>Pneumonia is inflammation of the lungs, usually caused by an infection. Most people get better in 2 to 4 weeks, but babies, older people, and people with heart or lung conditions are at risk of getting seriously ill and may need treatment in hospital.</b></p>
+
+<p><b>Pneumonia is inflammation of the lungs, usually caused by an infection. Most people get better in 2 to 4 weeks, but babies, older people, and people with heart or lung conditions are at risk of getting seriously ill and may need treatment in hospital.</b></p>
+
+<p>Symptoms of pneumonia can start suddenly or gradually over a few days.</p><p>They include:</p><ul><li>a cough – you may cough up yellow or green mucus (phlegm)</li><li>shortness of breath</li><li>a high temperature</li><li>chest pain</li><li>an aching body</li><li>feeling very tired</li><li>loss of appetite</li><li>making wheezing noises when you breathe – babies may also make grunting noises</li><li>feeling confused – this is common in older people</li></ul>
+
+<p>Symptoms of pneumonia can start suddenly or gradually over a few days.</p><p>They include:</p><ul><li>a cough – you may cough up yellow or green mucus (phlegm)</li><li>shortness of breath</li><li>a high temperature</li><li>chest pain</li><li>an aching body</li><li>feeling very tired</li><li>loss of appetite</li><li>making wheezing noises when you breathe – babies may also make grunting noises</li><li>feeling confused – this is common in older people</li></ul>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>you've had a cough for 3 weeks or more</li><li>you're coughing up blood</li><li>you have chest pain that comes and goes, or happens when breathing or coughing</li><li>you're feeling short of breath</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>you've had a cough for 3 weeks or more</li><li>you're coughing up blood</li><li>you have chest pain that comes and goes, or happens when breathing or coughing</li><li>you're feeling short of breath</li></ul><p>You can call 111 or <a href="https://111.nhs.uk/triage/check-your-symptoms">get help from 111 online</a>.</p>
+</div>
+
+<h2>Call 999 if:</h2><div class="block-richtext">
+<ul><li>you're struggling to breathe – you're choking, gasping and unable to speak</li><li>you have pale, blue or blotchy skin, lips or tongue</li><li>you suddenly feel confused – for example, you do not know where you are</li><li>you cannot wake your baby and they feel floppy</li></ul>
+</div>
+
+<h2>Call 999 if:</h2><div class="block-richtext">
+<ul><li>you're struggling to breathe – you're choking, gasping and unable to speak</li><li>you have pale, blue or blotchy skin, lips or tongue</li><li>you suddenly feel confused – for example, you do not know where you are</li><li>you cannot wake your baby and they feel floppy</li></ul>
+</div>
+
+<p>You'll usually be given antibiotics to treat pneumonia. Most people get better in 2 to 4 weeks.</p><p>Some people are more at risk of becoming seriously ill. You may need to go to hospital for treatment if:</p><ul><li>you're over 65</li><li>you have <a href="https://api.nhs.uk/conditions/cardiovascular-disease/">cardiovascular disease</a> or a long-term lung condition</li><li>your baby or young child has pneumonia</li><li>you're very unwell</li></ul><p>In hospital you'll usually be given fluids and antibiotics to treat the infection. You may also be given oxygen to help you breathe.</p><p>You may be sent for an <a href="https://api.nhs.uk/conditions/x-ray/">X-ray</a> of your chest and blood tests to check for other conditions.</p>
+
+<h3>Important</h3><p>If you're given antibiotics to take at home, contact your doctor if you do not feel better after taking them for 2 to 3 days.</p>
+
+<p>You'll usually be given antibiotics to treat pneumonia. Most people get better in 2 to 4 weeks.</p><p>Some people are more at risk of becoming seriously ill. You may need to go to hospital for treatment if:</p><ul><li>you're over 65</li><li>you have <a href="https://api.nhs.uk/conditions/cardiovascular-disease/">cardiovascular disease</a> or a long-term lung condition</li><li>your baby or young child has pneumonia</li><li>you're very unwell</li></ul><p>In hospital you'll usually be given fluids and antibiotics to treat the infection. You may also be given oxygen to help you breathe.</p><p>You may be sent for an <a href="https://api.nhs.uk/conditions/x-ray/">X-ray</a> of your chest and blood tests to check for other conditions.</p>
+
+<h3>Important</h3><p>If you're given antibiotics to take at home, contact your doctor if you do not feel better after taking them for 2 to 3 days.</p>
+
+<p>There are some things you can do to help with recovery from pneumonia and reduce the risk of spreading it to other people.</p>
+
+<div><h3>Do</h3><ul><li><p>rest until you feel better – try to stay at home and avoid contact with other people if you have a high temperature or do not feel well enough to do normal activities</p></li><li><p>drink plenty of fluids</p></li><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to help with pain or a high temperature</p></li><li><p>cover your mouth and nose with a tissue when you cough or sneeze</p></li><li><p>put used tissues in the bin as quickly as possible</p></li><li><p>wash your hands regularly with water and soap</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not take cough medicine – coughing helps your body get rid of the infection</p></li><li><p>do not smoke</p></li></ul></div>
+
+<p>There are some things you can do to help with recovery from pneumonia and reduce the risk of spreading it to other people.</p>
+
+<div><h3>Do</h3><ul><li><p>rest until you feel better – try to stay at home and avoid contact with other people if you have a high temperature or do not feel well enough to do normal activities</p></li><li><p>drink plenty of fluids</p></li><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> to help with pain or a high temperature</p></li><li><p>cover your mouth and nose with a tissue when you cough or sneeze</p></li><li><p>put used tissues in the bin as quickly as possible</p></li><li><p>wash your hands regularly with water and soap</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not take cough medicine – coughing helps your body get rid of the infection</p></li><li><p>do not smoke</p></li></ul></div>
+
+<p>Pneumonia is usually caused by a bacterial or viral infection.</p><p>You can catch pneumonia from someone who has it, or you can sometimes get it if you have another infection such as:</p><ul><li><a href="https://api.nhs.uk/conditions/flu/">flu</a></li><li><a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a></li><li><a href="https://api.nhs.uk/conditions/covid-19/">COVID-19</a></li></ul><p>Pneumonia can be caused by a fungal infection, but this is rare in healthy people in the UK.</p><p>It may also be caused by something getting into your lungs, such as water or food (aspiration pneumonia).</p>
+
+<p>Pneumonia is usually caused by a bacterial or viral infection.</p><p>You can catch pneumonia from someone who has it, or you can sometimes get it if you have another infection such as:</p><ul><li><a href="https://api.nhs.uk/conditions/flu/">flu</a></li><li><a href="https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/">respiratory syncytial virus (RSV)</a></li><li><a href="https://api.nhs.uk/conditions/covid-19/">COVID-19</a></li></ul><p>Pneumonia can be caused by a fungal infection, but this is rare in healthy people in the UK.</p><p>It may also be caused by something getting into your lungs, such as water or food (aspiration pneumonia).</p>
+
+<p>There are several vaccines available to help protect you or your child from infections that can cause pneumonia:</p><ul><li><a href="/vaccinations/pneumococcal-vaccine/">pneumococcal vaccine</a> – recommended for babies, adults over 65 and people at higher risk of pneumococcal infections</li><li><a href="/vaccinations/flu-vaccine/">flu vaccine</a> – recommended during pregnancy, for adults over 65, people with certain long-term health conditions and those at high risk of catching or passing on flu</li><li><a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> – recommended for adults aged 75 to 79, and during pregnancy (from 28 weeks onwards) to help protect your baby after they're born</li><li><a href="/vaccinations/covid-19-vaccine/">COVID-19 vaccine</a> – a seasonal vaccine that's recommended for people at increased risk from COVID-19</li></ul>
+
+<p>Stopping smoking also reduces your chance of getting pneumonia.</p>
+
+<p>There are several vaccines available to help protect you or your child from infections that can cause pneumonia:</p><ul><li><a href="/vaccinations/pneumococcal-vaccine/">pneumococcal vaccine</a> – recommended for babies, adults over 65 and people at higher risk of pneumococcal infections</li><li><a href="/vaccinations/flu-vaccine/">flu vaccine</a> – recommended during pregnancy, for adults over 65, people with certain long-term health conditions and those at high risk of catching or passing on flu</li><li><a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> – recommended for adults aged 75 to 79, and during pregnancy (from 28 weeks onwards) to help protect your baby after they're born</li><li><a href="/vaccinations/covid-19-vaccine/">COVID-19 vaccine</a> – a seasonal vaccine that's recommended for people at increased risk from COVID-19</li></ul>
+
+<p>Stopping smoking also reduces your chance of getting pneumonia.</p> Respiratory syncytial virus (RSV) is a common cause of coughs and colds. RSV infections usually get better by themselves, but can sometimes be serious for babies and older adults.
+
+<p>RSV infections are very common. Almost all children get them at least once before they're 2 years old.</p><p>They're not usually serious, but some babies and adults have a higher risk of getting seriously ill, particularly:</p><ul><li>babies under 6 months old</li><li>young children who were born prematurely</li><li>adults over 75 years</li><li>babies, children and adults with a weakened immune system, or long-term lung or heart conditions</li><li>people who smoke tobacco and babies exposed to tobacco smoke</li></ul><p>In babies, RSV is a common cause of a type of chest infection called <a href="https://api.nhs.uk/conditions/bronchiolitis/">bronchiolitis</a>. This can cause breathing problems and may need to be treated in hospital.</p><p>RSV can also cause a serious lung infection (<a href="https://api.nhs.uk/conditions/pneumonia/">pneumonia</a>) in babies and older adults.</p>
+
+<p>RSV infections are very common. Almost all children get them at least once before they're 2 years old.</p><p>They're not usually serious, but some babies and adults have a higher risk of getting seriously ill, particularly:</p><ul><li>babies under 6 months old</li><li>young children who were born prematurely</li><li>adults over 75 years</li><li>babies, children and adults with a weakened immune system, or long-term lung or heart conditions</li><li>people who smoke tobacco and babies exposed to tobacco smoke</li></ul><p>In babies, RSV is a common cause of a type of chest infection called <a href="https://api.nhs.uk/conditions/bronchiolitis/">bronchiolitis</a>. This can cause breathing problems and may need to be treated in hospital.</p><p>RSV can also cause a serious lung infection (<a href="https://api.nhs.uk/conditions/pneumonia/">pneumonia</a>) in babies and older adults.</p>
+
+<p>RSV is spread in the coughs and sneezes of someone who has the virus.</p><p>There are some things you can do to reduce your chances of getting it or spreading it to anyone else, such as:</p><ul><li>wash or wipe down toys and clean surfaces regularly</li><li>try to avoid touching your eyes, nose or mouth if your hands are not clean</li><li>use disposable tissues and throw them away as soon as you've used them</li><li>try to keep newborn babies away from anyone with a cold or the flu – especially if they were born prematurely or have serious health conditions</li></ul><h3>RSV vaccination</h3><p>The <a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> is recommended if:</p><ul><li>you're pregnant (from 28 weeks of pregnancy) – this will help protect your baby for the first few months after they're born</li><li>you're aged 75 to 79</li></ul><p>The vaccine helps reduce the risk of RSV causing serious problems such as pneumonia and bronchiolitis.</p><p>If you're aged 75 to 79, your GP surgery will contact you about getting vaccinated.</p><p>If you're 28 weeks pregnant or more, you can speak to your maternity service or GP surgery about getting vaccinated.</p><h3>Injection for children at risk of serious infections</h3><p>Young children with a very high risk of getting seriously ill from RSV may be given an injection of infection-fighting antibodies each winter.</p><p>This helps reduce the risk of RSV causing severe bronchiolitis. It's usually given in children's clinics in hospital.</p>
+
+<p>RSV is spread in the coughs and sneezes of someone who has the virus.</p><p>There are some things you can do to reduce your chances of getting it or spreading it to anyone else, such as:</p><ul><li>wash or wipe down toys and clean surfaces regularly</li><li>try to avoid touching your eyes, nose or mouth if your hands are not clean</li><li>use disposable tissues and throw them away as soon as you've used them</li><li>try to keep newborn babies away from anyone with a cold or the flu – especially if they were born prematurely or have serious health conditions</li></ul><h3>RSV vaccination</h3><p>The <a href="/vaccinations/rsv-vaccine/">RSV vaccine</a> is recommended if:</p><ul><li>you're pregnant (from 28 weeks of pregnancy) – this will help protect your baby for the first few months after they're born</li><li>you're aged 75 to 79</li></ul><p>The vaccine helps reduce the risk of RSV causing serious problems such as pneumonia and bronchiolitis.</p><p>If you're aged 75 to 79, your GP surgery will contact you about getting vaccinated.</p><p>If you're 28 weeks pregnant or more, you can speak to your maternity service or GP surgery about getting vaccinated.</p><h3>Injection for children at risk of serious infections</h3><p>Young children with a very high risk of getting seriously ill from RSV may be given an injection of infection-fighting antibodies each winter.</p><p>This helps reduce the risk of RSV causing severe bronchiolitis. It's usually given in children's clinics in hospital.</p>
+
+<p>Symptoms of an RSV infection usually start within a few days of getting infected.</p><p>Most people only get cold-like symptoms, such as:</p><ul><li>a runny or blocked nose</li><li>a cough</li><li>sneezing</li><li>tiredness</li><li>a high temperature – signs include your back or chest feeling hotter than usual, sweatiness and shivering (chills)</li></ul><p>Babies with RSV may also be irritable and feed less than usual.</p><p>If RSV leads to a more serious infection (such as pneumonia or bronchiolitis) it may also cause:</p><ul><li>a cough that gets worse</li><li>shortness of breath</li><li>faster breathing or long gaps between breaths</li><li>difficulty feeding (in babies) or loss of appetite</li><li>noisy breathing (wheezing)</li><li>confusion (in older adults)</li></ul>
+
+<p>Cold-like symptoms are very common in babies and children. They're not usually a sign of anything serious and should get better within a few days.</p><p>But get medical help if you're worried your child is seriously ill.</p>
+
+<p>Symptoms of an RSV infection usually start within a few days of getting infected.</p><p>Most people only get cold-like symptoms, such as:</p><ul><li>a runny or blocked nose</li><li>a cough</li><li>sneezing</li><li>tiredness</li><li>a high temperature – signs include your back or chest feeling hotter than usual, sweatiness and shivering (chills)</li></ul><p>Babies with RSV may also be irritable and feed less than usual.</p><p>If RSV leads to a more serious infection (such as pneumonia or bronchiolitis) it may also cause:</p><ul><li>a cough that gets worse</li><li>shortness of breath</li><li>faster breathing or long gaps between breaths</li><li>difficulty feeding (in babies) or loss of appetite</li><li>noisy breathing (wheezing)</li><li>confusion (in older adults)</li></ul>
+
+<p>Cold-like symptoms are very common in babies and children. They're not usually a sign of anything serious and should get better within a few days.</p><p>But get medical help if you're worried your child is seriously ill.</p>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>your child is unwell and it's getting worse</li><li>your child is feeding or eating much less than normal</li><li>your child has had a dry nappy for 12 hours or more, or shows other signs of dehydration</li><li>your baby feels hotter than usual when you touch their back or chest, feels sweaty or is shivering</li><li>your baby is under 3 months and has a temperature of 38C, or is older than 3 months and has a temperature of 39C or higher</li><li>you or a child aged 5 years or older has a temperature below 36C</li><li>your child is very tired or irritable</li><li>you get cold symptoms and you have a long-term medical condition (such as a heart or lung condition) or a weakened immune system (for example, because you're having chemotherapy)</li><li>you have difficulty breathing – you may be more short of breath than usual</li></ul><p><a href="https://111.nhs.uk/triage/check-your-symptoms">Check symptoms on 111 online</a> (for anyone aged 5 and over) or call 111 (for children under 5).</p>
+</div>
+
+<h2>Ask for an urgent GP appointment or get help from NHS 111 if:</h2><div class="block-richtext">
+<ul><li>your child is unwell and it's getting worse</li><li>your child is feeding or eating much less than normal</li><li>your child has had a dry nappy for 12 hours or more, or shows other signs of dehydration</li><li>your baby feels hotter than usual when you touch their back or chest, feels sweaty or is shivering</li><li>your baby is under 3 months and has a temperature of 38C, or is older than 3 months and has a temperature of 39C or higher</li><li>you or a child aged 5 years or older has a temperature below 36C</li><li>your child is very tired or irritable</li><li>you get cold symptoms and you have a long-term medical condition (such as a heart or lung condition) or a weakened immune system (for example, because you're having chemotherapy)</li><li>you have difficulty breathing – you may be more short of breath than usual</li></ul><p><a href="https://111.nhs.uk/triage/check-your-symptoms">Check symptoms on 111 online</a> (for anyone aged 5 and over) or call 111 (for children under 5).</p>
+</div>
+
+<h3>How to take a temperature</h3><p>If you have a digital thermometer, you can use it to check if you or your child has a high temperature.</p><p>For more information about how to do this, see:</p><ul><li><a href="https://api.nhs.uk/conditions/fever-in-children/">high temperature in children</a></li><li><a href="https://api.nhs.uk/conditions/fever-in-adults/">high temperature in adults</a></li></ul><p>If you do not have a thermometer, look for signs such as the back or chest feeling hotter than usual, sweatiness and shivering (chills).</p>
+
+<h3>How to take a temperature</h3><p>If you have a digital thermometer, you can use it to check if you or your child has a high temperature.</p><p>For more information about how to do this, see:</p><ul><li><a href="https://api.nhs.uk/conditions/fever-in-children/">high temperature in children</a></li><li><a href="https://api.nhs.uk/conditions/fever-in-adults/">high temperature in adults</a></li></ul><p>If you do not have a thermometer, look for signs such as the back or chest feeling hotter than usual, sweatiness and shivering (chills).</p>
+
+<h2>Call 999 if:</h2><div class="block-richtext">
+<ul><li>your child is having difficulty breathing – you may notice grunting noises, long pauses in their breathing or their tummy sucking under their ribs</li><li>you have severe difficulty breathing – you're gasping, choking or not able to get words out</li><li>you or your child is floppy and will not wake up or stay awake</li><li>you or your child's lips or skin are turning very pale, blue or grey – on brown or black skin, this may be easier to see on the palms of the hands</li><li>your child is under 5 years and has a temperature below 36C</li></ul><p>As a parent, you may know if your child seems seriously unwell and should trust your judgement.</p>
+</div>
+
+<p>Do not drive yourself to A&amp;E if you are unwell.</p><p>The person you speak to at 999 will give you advice about what to do.</p>
+
+<h2>Call 999 if:</h2><div class="block-richtext">
+<ul><li>your child is having difficulty breathing – you may notice grunting noises, long pauses in their breathing or their tummy sucking under their ribs</li><li>you have severe difficulty breathing – you're gasping, choking or not able to get words out</li><li>you or your child is floppy and will not wake up or stay awake</li><li>you or your child's lips or skin are turning very pale, blue or grey – on brown or black skin, this may be easier to see on the palms of the hands</li><li>your child is under 5 years and has a temperature below 36C</li></ul><p>As a parent, you may know if your child seems seriously unwell and should trust your judgement.</p>
+</div>
+
+<p>Do not drive yourself to A&amp;E if you are unwell.</p><p>The person you speak to at 999 will give you advice about what to do.</p>
+
+<p>There's no specific treatment for an RSV infection.</p><p>It often gets better on its own in 1 or 2 weeks and you can usually look after yourself or your child at home.</p><p>Children and adults who get a more serious infection may need to be treated in hospital.</p><p>Treatment in hospital may include being given fluids to avoid dehydration or oxygen to help you breathe.</p>
+
+<p>There's no specific treatment for an RSV infection.</p><p>It often gets better on its own in 1 or 2 weeks and you can usually look after yourself or your child at home.</p><p>Children and adults who get a more serious infection may need to be treated in hospital.</p><p>Treatment in hospital may include being given fluids to avoid dehydration or oxygen to help you breathe.</p>
+
+<p>If you or your child have mild RSV symptoms, there are some things you can do to help ease the symptoms.</p>
+
+<div><h3>Do</h3><ul><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> if you have a high temperature and are uncomfortable</p></li><li><p>give your child <a href="/medicines/paracetamol-for-children/">children's paracetamol</a> or <a href="/medicines/ibuprofen-for-children/">children's ibuprofen</a> if they have a high temperature and are uncomfortable – always check the leaflet to make sure it's suitable for your child</p></li><li><p>try using saline nose drops from a pharmacy if your or your child's nose is blocked</p></li><li><p>drink lots of fluids – try smaller feeds more often in babies, and give older children extra water or diluted fruit juice</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not give aspirin to children under 16</p></li><li><p>do not smoke around your child – children who breathe in cigarette smoke have a higher risk of getting serious RSV infections</p></li><li><p>do not try to lower your child's temperature by sponging them with cool water or taking off all their clothes</p></li></ul></div>
+
+<p>If you or your child have mild RSV symptoms, there are some things you can do to help ease the symptoms.</p>
+
+<div><h3>Do</h3><ul><li><p>take <a href="/medicines/paracetamol-for-adults/">paracetamol</a> or <a href="/medicines/ibuprofen-for-adults/">ibuprofen</a> if you have a high temperature and are uncomfortable</p></li><li><p>give your child <a href="/medicines/paracetamol-for-children/">children's paracetamol</a> or <a href="/medicines/ibuprofen-for-children/">children's ibuprofen</a> if they have a high temperature and are uncomfortable – always check the leaflet to make sure it's suitable for your child</p></li><li><p>try using saline nose drops from a pharmacy if your or your child's nose is blocked</p></li><li><p>drink lots of fluids – try smaller feeds more often in babies, and give older children extra water or diluted fruit juice</p></li></ul></div>
+
+<div><h3>Don't</h3><ul><li><p>do not give aspirin to children under 16</p></li><li><p>do not smoke around your child – children who breathe in cigarette smoke have a higher risk of getting serious RSV infections</p></li><li><p>do not try to lower your child's temperature by sponging them with cool water or taking off all their clothes</p></li></ul></div>  

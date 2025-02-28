@@ -1,0 +1,172 @@
+@prefix ns1: <http://diseaseknowledge.org/> .
+@prefix ns2: <http://www.w3.org/TR/rdf11-schema/> .
+
+ns1:Asthma ns1:cause ns1:Environmental_Factors,
+        ns1:Genetic_Factors,
+        ns1:Lifestyle_Factors,
+        ns1:Occupational_Sensitizers,
+        ns1:Respiratory_Infections ;
+    ns1:diagnosing ns1:Diagnosis ;
+    ns1:label <https://en.wikipedia.org/wiki/Asthma> ;
+    ns1:onset ns1:Adult_Onset,
+        ns1:Childhood_Onset ;
+    ns1:risk ns1:People_of_All_Ages ;
+    ns1:symptom ns1:Breathlessness,
+        ns1:Coughing,
+        ns1:Tight_Chest,
+        ns1:Wheezing ;
+    ns1:treatment ns1:Allergy_Treatments,
+        ns1:Emergency_Treatment,
+        ns1:Lifestyle_Changes,
+        ns1:Medication ;
+    ns1:trigger ns1:Triggers .
+
+ns1:Pneumonia ns1:caused_by ns1:Infection ;
+    ns1:diagnosed_by ns1:Blood_tests,
+        ns1:X-ray ;
+    ns1:diagnosed_with ns1:X_ray ;
+    ns1:label <https://en.wikipedia.org/wiki/Pneumonia> ;
+    ns1:prevented_by ns1:COVID_19_vaccine,
+        ns1:Flu_vaccine,
+        ns1:Pneumococcal_vaccine,
+        ns1:RSV_vaccine ;
+    ns1:prevention ns1:Vaccines ;
+    ns1:risk ns1:Babies,
+        ns1:Heart_conditions,
+        ns1:Lung_conditions,
+        ns1:Older_people ;
+    ns1:risk_group ns1:Babies,
+        ns1:Heart_condition,
+        ns1:Lung_condition,
+        ns1:Older_people ;
+    ns1:symptom ns1:Aching_body,
+        ns1:Chest_pain,
+        ns1:Confusion,
+        ns1:Cough,
+        ns1:High_temperature,
+        ns1:Shortness_of_breath ;
+    ns1:treated_with ns1:Antibiotics,
+        ns1:Fluids,
+        ns1:Oxygen ;
+    ns1:treatment ns1:Antibiotics,
+        ns1:Fluids,
+        ns1:Oxygen .
+
+ns1:Prevention ns1:label <https://en.wikipedia.org/wiki/Prevention> .
+
+ns1:Symptoms ns1:label <https://en.wikipedia.org/wiki/Symptoms> .
+
+ns1:Treatment ns1:label <https://en.wikipedia.org/wiki/Treatment> .
+
+<http://diseaseknowledge.org/Who's_at_risk> ns1:label <https://en.wikipedia.org/wiki/Who's_at_risk> .
+
+ns1:Aching_body ns1:label <https://en.wikipedia.org/wiki/Aching_body> .
+
+ns1:Adult_Onset ns1:label <https://en.wikipedia.org/wiki/Adult_Onset> .
+
+ns1:Allergy_Treatments ns1:label <https://en.wikipedia.org/wiki/Allergy_Treatments> .
+
+ns1:Aspiration_pneumonia ns1:label <https://en.wikipedia.org/wiki/Aspiration_pneumonia> .
+
+ns1:Blood_tests ns1:label <https://en.wikipedia.org/wiki/Blood_tests> .
+
+ns1:Breathlessness ns1:label <https://en.wikipedia.org/wiki/Breathlessness> .
+
+ns1:Bronchodilators ns1:label <https://en.wikipedia.org/wiki/Bronchodilators> .
+
+ns1:COVID-19_vaccine ns1:label <https://en.wikipedia.org/wiki/COVID-19_vaccine> .
+
+ns1:COVID_19 ns2:type <https://en.wikipedia.org/wiki/COVID-19> .
+
+ns1:COVID_19_vaccine ns2:type <https://en.wikipedia.org/wiki/COVID-19_vaccine> .
+
+ns1:Chest_pain ns1:label <https://en.wikipedia.org/wiki/Chest_pain> .
+
+ns1:Childhood_Onset ns1:label <https://en.wikipedia.org/wiki/Childhood_Onset> .
+
+ns1:Confusion ns1:label <https://en.wikipedia.org/wiki/Confusion> .
+
+ns1:Cough ns1:label <https://en.wikipedia.org/wiki/Cough> .
+
+ns1:Coughing ns1:label <https://en.wikipedia.org/wiki/Coughing> .
+
+ns1:Diagnosis ns1:label <https://en.wikipedia.org/wiki/Diagnosis> .
+
+ns1:Emergency_Treatment ns1:label <https://en.wikipedia.org/wiki/Emergency_Treatment> .
+
+ns1:Environmental_Factors ns1:label <https://en.wikipedia.org/wiki/Environmental_Factors> .
+
+ns1:Flu ns1:label <https://en.wikipedia.org/wiki/Flu> .
+
+ns1:Genetic_Factors ns1:label <https://en.wikipedia.org/wiki/Genetic_Factors> .
+
+ns1:Heart_condition ns1:label <https://en.wikipedia.org/wiki/Heart_condition> .
+
+ns1:Heart_conditions ns1:label <https://en.wikipedia.org/wiki/Heart_conditions> .
+
+ns1:High_temperature ns1:label <https://en.wikipedia.org/wiki/High_temperature> .
+
+ns1:Hydration ns1:label <https://en.wikipedia.org/wiki/Hydration> .
+
+ns1:Infection ns1:label <https://en.wikipedia.org/wiki/Infection> ;
+    ns1:may_cause ns1:Aspiration_pneumonia,
+        ns1:COVID_19,
+        ns1:Flu,
+        ns1:RSV .
+
+ns1:Inhaled_Corticosteroids ns1:label <https://en.wikipedia.org/wiki/Inhaled_Corticosteroids> .
+
+ns1:Lifestyle_Changes ns1:label <https://en.wikipedia.org/wiki/Lifestyle_Changes> .
+
+ns1:Lifestyle_Factors ns1:label <https://en.wikipedia.org/wiki/Lifestyle_Factors> .
+
+ns1:Lung_condition ns1:label <https://en.wikipedia.org/wiki/Lung_condition> .
+
+ns1:Lung_conditions ns1:label <https://en.wikipedia.org/wiki/Lung_conditions> .
+
+ns1:Medication ns1:label <https://en.wikipedia.org/wiki/Medication> ;
+    ns1:type ns1:Bronchodilators,
+        ns1:Inhaled_Corticosteroids .
+
+ns1:Occupational_Sensitizers ns1:label <https://en.wikipedia.org/wiki/Occupational_Sensitizers> .
+
+ns1:People_of_All_Ages ns1:label <https://en.wikipedia.org/wiki/People_of_All_Ages> .
+
+ns1:RSV ns1:label <https://en.wikipedia.org/wiki/RSV> .
+
+ns1:Respiratory_Infections ns1:label <https://en.wikipedia.org/wiki/Respiratory_Infections> .
+
+ns1:Shortness_of_breath ns1:label <https://en.wikipedia.org/wiki/Shortness_of_breath> .
+
+ns1:Tight_Chest ns1:label <https://en.wikipedia.org/wiki/Tight_Chest> .
+
+ns1:Triggers ns1:label <https://en.wikipedia.org/wiki/Triggers> .
+
+ns1:Vaccines ns1:label <https://en.wikipedia.org/wiki/Vaccines> ;
+    ns1:option ns1:COVID-19_vaccine,
+        ns1:Flu_vaccine,
+        ns1:Pneumococcal_vaccine,
+        ns1:RSV_vaccine .
+
+ns1:Wheezing ns1:label <https://en.wikipedia.org/wiki/Wheezing> .
+
+ns1:X-ray ns1:label <https://en.wikipedia.org/wiki/X-ray> .
+
+ns1:X_ray ns2:type <https://en.wikipedia.org/wiki/X-ray> .
+
+ns1:Antibiotics ns1:label <https://en.wikipedia.org/wiki/Antibiotics> .
+
+ns1:Babies ns1:label <https://en.wikipedia.org/wiki/Babies> .
+
+ns1:Flu_vaccine ns1:label <https://en.wikipedia.org/wiki/Flu_vaccine> .
+
+ns1:Fluids ns1:aid ns1:Hydration ;
+    ns1:label <https://en.wikipedia.org/wiki/Fluids> .
+
+ns1:Older_people ns1:label <https://en.wikipedia.org/wiki/Older_people> .
+
+ns1:Oxygen ns1:label <https://en.wikipedia.org/wiki/Oxygen> .
+
+ns1:Pneumococcal_vaccine ns1:label <https://en.wikipedia.org/wiki/Pneumococcal_vaccine> .
+
+ns1:RSV_vaccine ns1:label <https://en.wikipedia.org/wiki/RSV_vaccine> .

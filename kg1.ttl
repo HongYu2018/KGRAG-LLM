@@ -1,0 +1,63 @@
+@prefix ns1: <http://diseaseknowledge.org/> .
+
+ns1:Asthma ns1:cause ns1:Environmental_Factors,
+        ns1:Genetic_Factors,
+        ns1:Lifestyle_Factors,
+        ns1:Occupational_Sensitizers,
+        ns1:Respiratory_Infections ;
+    ns1:diagnosing ns1:Diagnosis ;
+    ns1:label httpsen.wikipedia.orgwikiAsthma ;
+    ns1:onset ns1:Adult_Onset,
+        ns1:Childhood_Onset ;
+    ns1:risk ns1:People_of_All_Ages ;
+    ns1:symptom ns1:Breathlessness,
+        ns1:Coughing,
+        ns1:Tight_Chest,
+        ns1:Wheezing ;
+    ns1:treatment ns1:Allergy_Treatments,
+        ns1:Emergency_Treatment,
+        ns1:Lifestyle_Changes,
+        ns1:Medication ;
+    ns1:trigger ns1:Triggers .
+
+ns1:Adult_Onset ns1:label httpsen.wikipedia.orgwikiAdult_Onset .
+
+ns1:Allergy_Treatments ns1:label httpsen.wikipedia.orgwikiAllergy_Treatments .
+
+ns1:Breathlessness ns1:label httpsen.wikipedia.orgwikiBreathlessness .
+
+ns1:Bronchodilators ns1:label httpsen.wikipedia.orgwikiBronchodilators .
+
+ns1:Childhood_Onset ns1:label httpsen.wikipedia.orgwikiChildhood_Onset .
+
+ns1:Coughing ns1:label httpsen.wikipedia.orgwikiCoughing .
+
+ns1:Diagnosis ns1:label httpsen.wikipedia.orgwikiDiagnosis .
+
+ns1:Emergency_Treatment ns1:label httpsen.wikipedia.orgwikiEmergency_Treatment .
+
+ns1:Environmental_Factors ns1:label httpsen.wikipedia.orgwikiEnvironmental_Factors .
+
+ns1:Genetic_Factors ns1:label httpsen.wikipedia.orgwikiGenetic_Factors .
+
+ns1:Inhaled_Corticosteroids ns1:label httpsen.wikipedia.orgwikiInhaled_Corticosteroids .
+
+ns1:Lifestyle_Changes ns1:label httpsen.wikipedia.orgwikiLifestyle_Changes .
+
+ns1:Lifestyle_Factors ns1:label httpsen.wikipedia.orgwikiLifestyle_Factors .
+
+ns1:Medication ns1:label httpsen.wikipedia.orgwikiMedication ;
+    ns1:type ns1:Bronchodilators,
+        ns1:Inhaled_Corticosteroids .
+
+ns1:Occupational_Sensitizers ns1:label httpsen.wikipedia.orgwikiOccupational_Sensitizers .
+
+ns1:People_of_All_Ages ns1:label httpsen.wikipedia.orgwikiPeople_of_All_Ages .
+
+ns1:Respiratory_Infections ns1:label httpsen.wikipedia.orgwikiRespiratory_Infections .
+
+ns1:Tight_Chest ns1:label httpsen.wikipedia.orgwikiTight_Chest .
+
+ns1:Triggers ns1:label httpsen.wikipedia.orgwikiTriggers .
+
+ns1:Wheezing ns1:label httpsen.wikipedia.orgwikiWheezing .
